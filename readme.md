@@ -1,8 +1,6 @@
 
-## Países, Regiões, Estados e Cidades
+## CFOP e NCM
 
 Migrations e Seeders contendo:
-- Regiões do Brasil (5)
-- Estados do Brasil (27)
-- Cidades do Brasil (5.570)
-- Países do mundo (239)
+- CFOP (Código Fiscal de Operação e Prestação)
+- NCM (Nomeclatura Comum do Mercosul)
