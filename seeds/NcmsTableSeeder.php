@@ -3592,2003 +3592,1717 @@ class NcmsTableSeeder extends Seeder
             array (
                 'codigo' => 9109100,
             'descricao' => 'Gengibre, açafrão, açafrão-da-terra, tomilho, louro, caril e outras especiarias - Outras especiarias - Misturas mencionadas na Nota 1 b) do presente Capítulo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         215 => 
         array (
             'codigo' => 9109900,
             'descricao' => 'Gengibre, açafrão, açafrão-da-terra, tomilho, louro, caril e outras especiarias - Outras especiarias - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         216 => 
         array (
             'codigo' => 10011100,
         'descricao' => 'Trigo e mistura de trigo com centeio (méteil) - Trigo duro - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         217 => 
         array (
             'codigo' => 10011900,
         'descricao' => 'Trigo e mistura de trigo com centeio (méteil) - Trigo duro - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         218 => 
         array (
             'codigo' => 10019100,
         'descricao' => 'Trigo e mistura de trigo com centeio (méteil) - Outros - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         219 => 
         array (
             'codigo' => 10019900,
         'descricao' => 'Trigo e mistura de trigo com centeio (méteil) - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         220 => 
         array (
             'codigo' => 10021000,
             'descricao' => 'Centeio - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         221 => 
         array (
             'codigo' => 10029000,
             'descricao' => 'Centeio - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         222 => 
         array (
             'codigo' => 10031000,
             'descricao' => 'Cevada - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         223 => 
         array (
             'codigo' => 10039010,
             'descricao' => 'Cevada - Outras - Cervejeira',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         224 => 
         array (
             'codigo' => 10039080,
             'descricao' => 'Cevada - Outras - Outras, em grão',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         225 => 
         array (
             'codigo' => 10039090,
             'descricao' => 'Cevada - Outras - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         226 => 
         array (
             'codigo' => 10041000,
             'descricao' => 'Aveia - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         227 => 
         array (
             'codigo' => 10049000,
             'descricao' => 'Aveia - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         228 => 
         array (
             'codigo' => 10051000,
             'descricao' => 'Milho - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         229 => 
         array (
             'codigo' => 10059010,
             'descricao' => 'Milho - Outros - Em grão',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         230 => 
         array (
             'codigo' => 10059090,
             'descricao' => 'Milho - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         231 => 
         array (
             'codigo' => 10061010,
         'descricao' => 'Arroz - Arroz com casca (arroz paddy) - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         232 => 
         array (
             'codigo' => 10061091,
         'descricao' => 'Arroz - Arroz com casca (arroz paddy) - Outros - Parboilizado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         233 => 
         array (
             'codigo' => 10061092,
         'descricao' => 'Arroz - Arroz com casca (arroz paddy) - Outros - Não parboilizado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         234 => 
         array (
             'codigo' => 10062010,
         'descricao' => 'Arroz - Arroz descascado (arroz cargo ou castanho) - Parboilizado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         235 => 
         array (
             'codigo' => 10062020,
         'descricao' => 'Arroz - Arroz descascado (arroz cargo ou castanho) - Não parboilizado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         236 => 
         array (
             'codigo' => 10063011,
             'descricao' => 'Arroz - Arroz semibranqueado ou branqueado, mesmo polido ou brunido - Parboilizado - Polido ou brunido',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         237 => 
         array (
             'codigo' => 10063019,
             'descricao' => 'Arroz - Arroz semibranqueado ou branqueado, mesmo polido ou brunido - Parboilizado - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         238 => 
         array (
             'codigo' => 10063021,
             'descricao' => 'Arroz - Arroz semibranqueado ou branqueado, mesmo polido ou brunido - Não parboilizado - Polido ou brunido',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         239 => 
         array (
             'codigo' => 10063029,
             'descricao' => 'Arroz - Arroz semibranqueado ou branqueado, mesmo polido ou brunido - Não parboilizado - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         240 => 
         array (
             'codigo' => 10064000,
             'descricao' => 'Arroz - Arroz quebrado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         241 => 
         array (
             'codigo' => 10071000,
             'descricao' => 'Sorgo de grão - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         242 => 
         array (
             'codigo' => 10079000,
             'descricao' => 'Sorgo de grão - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         243 => 
         array (
             'codigo' => 10081010,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Trigo mourisco - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         244 => 
         array (
             'codigo' => 10081090,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Trigo mourisco - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         245 => 
         array (
             'codigo' => 10082100,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Painço - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         246 => 
         array (
             'codigo' => 10082900,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Painço - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         247 => 
         array (
             'codigo' => 10083010,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Alpiste - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         248 => 
         array (
             'codigo' => 10083090,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Alpiste - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         249 => 
         array (
             'codigo' => 10084010,
         'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Milhã (Digitaria spp.) - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         250 => 
         array (
             'codigo' => 10084090,
         'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Milhã (Digitaria spp.) - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         251 => 
         array (
             'codigo' => 10085010,
         'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Quinoa (Chenopodium quinoa) - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         252 => 
         array (
             'codigo' => 10085090,
         'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Quinoa (Chenopodium quinoa) - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         253 => 
         array (
             'codigo' => 10086010,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Triticale - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         254 => 
         array (
             'codigo' => 10086090,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Triticale - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         255 => 
         array (
             'codigo' => 10089010,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Outros cereais - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         256 => 
         array (
             'codigo' => 10089090,
             'descricao' => 'Trigo mourisco, painço e alpiste; outros cereais - Outros cereais - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         257 => 
         array (
             'codigo' => 11010010,
         'descricao' => 'Farinhas de trigo ou de mistura de trigo com centeio (méteil) - De trigo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         258 => 
         array (
             'codigo' => 11010020,
         'descricao' => 'Farinhas de trigo ou de mistura de trigo com centeio (méteil) - De mistura de trigo com centeio (méteil)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         259 => 
         array (
             'codigo' => 11022000,
         'descricao' => 'Farinhas de cereais, exceto de trigo ou de mistura de trigo com centeio (méteil) - Farinha de milho',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         260 => 
         array (
             'codigo' => 11029000,
         'descricao' => 'Farinhas de cereais, exceto de trigo ou de mistura de trigo com centeio (méteil) - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         261 => 
         array (
             'codigo' => 11031100,
             'descricao' => 'Grumos, sêmolas e pellets, de cereais - Grumos e sêmolas - De trigo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         262 => 
         array (
             'codigo' => 11031300,
             'descricao' => 'Grumos, sêmolas e pellets, de cereais - Grumos e sêmolas - De milho',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         263 => 
         array (
             'codigo' => 11031900,
             'descricao' => 'Grumos, sêmolas e pellets, de cereais - Grumos e sêmolas - De outros cereais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         264 => 
         array (
             'codigo' => 11032000,
             'descricao' => 'Grumos, sêmolas e pellets, de cereais - Pellets',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         265 => 
         array (
             'codigo' => 11041200,
         'descricao' => 'Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos - Grãos esmagados ou em flocos - De aveia',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         266 => 
         array (
             'codigo' => 11041900,
         'descricao' => 'Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos - Grãos esmagados ou em flocos - De outros cereais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         267 => 
         array (
             'codigo' => 11042200,
         'descricao' => 'Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos - Outros grãos trabalhados (por exemplo, descascados, em pérolas, cortados ou partidos) - De aveia',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         268 => 
         array (
             'codigo' => 11042300,
         'descricao' => 'Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos - Outros grãos trabalhados (por exemplo, descascados, em pérolas, cortados ou partidos) - De milho',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         269 => 
         array (
             'codigo' => 11042900,
         'descricao' => 'Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos - Outros grãos trabalhados (por exemplo, descascados, em pérolas, cortados ou partidos) - De outros cereais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         270 => 
         array (
             'codigo' => 11043000,
         'descricao' => 'Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos - Germes de cereais, inteiros, esmagados, em flocos ou moídos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         271 => 
         array (
             'codigo' => 11051000,
             'descricao' => 'Farinha, sêmola, pó, flocos, grânulos e pellets, de batata - Farinha, sêmola e pó',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         272 => 
         array (
             'codigo' => 11052000,
             'descricao' => 'Farinha, sêmola, pó, flocos, grânulos e pellets, de batata - Flocos, grânulos e pellets',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         273 => 
         array (
             'codigo' => 11061000,
             'descricao' => 'Farinhas, sêmolas e pós, dos legumes de vagem, secos, da posição 07.13, de sagu ou das raízes ou tubérculos da posição 07.14 e dos produtos do Capítulo 8 - Dos legumes de vagem, secos, da posição 07.13',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         274 => 
         array (
             'codigo' => 11062000,
             'descricao' => 'Farinhas, sêmolas e pós, dos legumes de vagem, secos, da posição 07.13, de sagu ou das raízes ou tubérculos da posição 07.14 e dos produtos do Capítulo 8 - De sagu ou das raízes ou tubérculos, da posição 07.14',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         275 => 
         array (
             'codigo' => 11063000,
             'descricao' => 'Farinhas, sêmolas e pós, dos legumes de vagem, secos, da posição 07.13, de sagu ou das raízes ou tubérculos da posição 07.14 e dos produtos do Capítulo 8 - Dos produtos do Capítulo 8',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         276 => 
         array (
             'codigo' => 11071010,
             'descricao' => 'Malte, mesmo torrado - Não torrado - Inteiro ou partido',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         277 => 
         array (
             'codigo' => 11071020,
             'descricao' => 'Malte, mesmo torrado - Não torrado - Moído ou em farinha',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         278 => 
         array (
             'codigo' => 11072010,
             'descricao' => 'Malte, mesmo torrado - Torrado - Inteiro ou partido',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         279 => 
         array (
             'codigo' => 11072020,
             'descricao' => 'Malte, mesmo torrado - Torrado - Moído ou em farinha',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         280 => 
         array (
             'codigo' => 11081100,
             'descricao' => 'Amidos e féculas; inulina - Amidos e féculas - Amido de trigo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         281 => 
         array (
             'codigo' => 11081200,
             'descricao' => 'Amidos e féculas; inulina - Amidos e féculas - Amido de milho',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         282 => 
         array (
             'codigo' => 11081300,
             'descricao' => 'Amidos e féculas; inulina - Amidos e féculas - Fécula de batata',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         283 => 
         array (
             'codigo' => 11081400,
             'descricao' => 'Amidos e féculas; inulina - Amidos e féculas - Fécula de mandioca',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         284 => 
         array (
             'codigo' => 11081900,
             'descricao' => 'Amidos e féculas; inulina - Amidos e féculas - Outros amidos e féculas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         285 => 
         array (
             'codigo' => 11082000,
             'descricao' => 'Amidos e féculas; inulina - Inulina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         286 => 
         array (
             'codigo' => 11090000,
             'descricao' => 'Glúten de trigo, mesmo seco',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         287 => 
         array (
             'codigo' => 12011000,
             'descricao' => 'Soja, mesmo triturada - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         288 => 
         array (
             'codigo' => 12019000,
             'descricao' => 'Soja, mesmo triturada - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         289 => 
         array (
             'codigo' => 12023000,
             'descricao' => 'Amendoins não torrados nem de outro modo cozidos, mesmo descascados ou triturados - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         290 => 
         array (
             'codigo' => 12024100,
             'descricao' => 'Amendoins não torrados nem de outro modo cozidos, mesmo descascados ou triturados - Outros - Com casca',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         291 => 
         array (
             'codigo' => 12024200,
             'descricao' => 'Amendoins não torrados nem de outro modo cozidos, mesmo descascados ou triturados - Outros - Descascados, mesmo triturados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         292 => 
         array (
             'codigo' => 12030000,
             'descricao' => 'Copra',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         293 => 
         array (
             'codigo' => 12040010,
         'descricao' => 'Linhaça (sementes de linho), mesmo triturada - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         294 => 
         array (
             'codigo' => 12040090,
         'descricao' => 'Linhaça (sementes de linho), mesmo triturada - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         295 => 
         array (
             'codigo' => 12051010,
             'descricao' => 'Sementes de nabo silvestre ou de colza, mesmo trituradas - Sementes de nabo silvestre ou de colza com baixo teor de ácido erúcico - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         296 => 
         array (
             'codigo' => 12051090,
             'descricao' => 'Sementes de nabo silvestre ou de colza, mesmo trituradas - Sementes de nabo silvestre ou de colza com baixo teor de ácido erúcico - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         297 => 
         array (
             'codigo' => 12059010,
             'descricao' => 'Sementes de nabo silvestre ou de colza, mesmo trituradas - Outras - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         298 => 
         array (
             'codigo' => 12059090,
             'descricao' => 'Sementes de nabo silvestre ou de colza, mesmo trituradas - Outras - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         299 => 
         array (
             'codigo' => 12060010,
             'descricao' => 'Sementes de girassol, mesmo trituradas - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         300 => 
         array (
             'codigo' => 12060090,
             'descricao' => 'Sementes de girassol, mesmo trituradas - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         301 => 
         array (
             'codigo' => 12071010,
         'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Nozes e amêndoas de palma (palmiste) - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         302 => 
         array (
             'codigo' => 12071090,
         'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Nozes e amêndoas de palma (palmiste) - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         303 => 
         array (
             'codigo' => 12072100,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de algodão - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         304 => 
         array (
             'codigo' => 12072900,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de algodão - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         305 => 
         array (
             'codigo' => 12073010,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de rícino - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         306 => 
         array (
             'codigo' => 12073090,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de rícino - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         307 => 
         array (
             'codigo' => 12074010,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de gergelim - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         308 => 
         array (
             'codigo' => 12074090,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de gergelim - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         309 => 
         array (
             'codigo' => 12075010,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de mostarda - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         310 => 
         array (
             'codigo' => 12075090,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de mostarda - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         311 => 
         array (
             'codigo' => 12076010,
         'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de cártamo (Carthamus tinctorius) - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         312 => 
         array (
             'codigo' => 12076090,
         'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de cártamo (Carthamus tinctorius) - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         313 => 
         array (
             'codigo' => 12077010,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de melão - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         314 => 
         array (
             'codigo' => 12077090,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Sementes de melão - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         315 => 
         array (
             'codigo' => 12079110,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Outros - Sementes de dormideira ou papoula - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         316 => 
         array (
             'codigo' => 12079190,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Outros - Sementes de dormideira ou papoula - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         317 => 
         array (
             'codigo' => 12079910,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Outros - Outros - Para semeadura',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         318 => 
         array (
             'codigo' => 12079990,
             'descricao' => 'Outras sementes e frutos oleaginosos, mesmo triturados - Outros - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         319 => 
         array (
             'codigo' => 12081000,
             'descricao' => 'Farinhas de sementes ou de frutos oleaginosos, exceto farinha de mostarda - De soja',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         320 => 
         array (
             'codigo' => 12089000,
             'descricao' => 'Farinhas de sementes ou de frutos oleaginosos, exceto farinha de mostarda - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         321 => 
         array (
             'codigo' => 12091000,
             'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de beterraba sacarina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         322 => 
         array (
             'codigo' => 12092100,
         'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas forrageiras - Sementes de alfafa (luzerna)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         323 => 
         array (
             'codigo' => 12092200,
         'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas forrageiras - Sementes de trevo (Trifolium spp.)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         324 => 
         array (
             'codigo' => 12092300,
             'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas forrageiras - Sementes de festuca',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         325 => 
         array (
             'codigo' => 12092400,
         'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas forrageiras - Sementes de pasto dos prados de Kentucky (Poa pratensis L.)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         326 => 
         array (
             'codigo' => 12092500,
         'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas forrageiras - Sementes de azevém (Lolium multiflorum Lam., Lolium perenne L.)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         327 => 
         array (
             'codigo' => 12092900,
             'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas forrageiras - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         328 => 
         array (
             'codigo' => 12093000,
             'descricao' => 'Sementes, frutos e esporos, para semeadura - Sementes de plantas herbáceas cultivadas especialmente pelas suas flores',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         329 => 
         array (
             'codigo' => 12099100,
             'descricao' => 'Sementes, frutos e esporos, para semeadura - Outros - Sementes de produtos hortícolas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         330 => 
         array (
             'codigo' => 12099900,
             'descricao' => 'Sementes, frutos e esporos, para semeadura - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         331 => 
         array (
             'codigo' => 12101000,
             'descricao' => 'Cones de lúpulo, frescos ou secos, mesmo triturados ou moídos ou em pellets; lupulina - Cones de lúpulo, não triturados nem moídos nem em pellets',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         332 => 
         array (
             'codigo' => 12102010,
             'descricao' => 'Cones de lúpulo, frescos ou secos, mesmo triturados ou moídos ou em pellets; lupulina - Cones de lúpulo, triturados ou moídos ou em pellets; lupulina - Cones de lúpulo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         333 => 
         array (
             'codigo' => 12102020,
             'descricao' => 'Cones de lúpulo, frescos ou secos, mesmo triturados ou moídos ou em pellets; lupulina - Cones de lúpulo, triturados ou moídos ou em pellets; lupulina - Lupulina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         334 => 
         array (
             'codigo' => 12112000,
             'descricao' => 'Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria, medicina ou como inseticidas, parasiticidas e semelhantes, frescos ou secos, mesmo cortados, triturados ou em pó - Raízes de ginseng',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         335 => 
         array (
             'codigo' => 12113000,
         'descricao' => 'Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria, medicina ou como inseticidas, parasiticidas e semelhantes, frescos ou secos, mesmo cortados, triturados ou em pó - Coca (folha de)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         336 => 
         array (
             'codigo' => 12114000,
             'descricao' => 'Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria, medicina ou como inseticidas, parasiticidas e semelhantes, frescos ou secos, mesmo cortados, triturados ou em pó - Palha de dormideira ou papoula',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         337 => 
         array (
             'codigo' => 12119010,
         'descricao' => 'Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria, medicina ou como inseticidas, parasiticidas e semelhantes, frescos ou secos, mesmo cortados, triturados ou em pó - Outros - Orégano (Origanum vulgare)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         338 => 
         array (
             'codigo' => 12119090,
             'descricao' => 'Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria, medicina ou como inseticidas, parasiticidas e semelhantes, frescos ou secos, mesmo cortados, triturados ou em pó - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         339 => 
         array (
             'codigo' => 12122100,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Algas - Próprias para a alimentação humana',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         340 => 
         array (
             'codigo' => 12122900,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Algas - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         341 => 
         array (
             'codigo' => 12129100,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Outros - Beterraba sacarina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         342 => 
         array (
             'codigo' => 12129200,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Outros - Alfarroba',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         343 => 
         array (
             'codigo' => 12129300,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Outros - Cana-de-açúcar',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         344 => 
         array (
             'codigo' => 12129400,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Outros - Raízes de chicória',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         345 => 
         array (
             'codigo' => 12129910,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Outros - Outros - Stevia rebaudiana (Ka’a He’ẽ)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         346 => 
         array (
             'codigo' => 12129990,
         'descricao' => 'Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade Cichorium intybus sativum) usados principalmente na alimentação humana, não especificados nem compreendidos noutras posições - Outros - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         347 => 
         array (
             'codigo' => 12130000,
             'descricao' => 'Palhas e cascas de cereais, em bruto, mesmo picadas, moídas, prensadas ou em pellets',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         348 => 
         array (
             'codigo' => 12141000,
         'descricao' => 'Rutabagas, beterrabas forrageiras, raízes forrageiras, feno, alfafa (luzerna), trevo, sanfeno, couves forrageiras, tremoço, ervilhaca e produtos forrageiros semelhantes, mesmo em pellets - Farinha e pellets, de alfafa (luzerna)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         349 => 
         array (
             'codigo' => 12149000,
         'descricao' => 'Rutabagas, beterrabas forrageiras, raízes forrageiras, feno, alfafa (luzerna), trevo, sanfeno, couves forrageiras, tremoço, ervilhaca e produtos forrageiros semelhantes, mesmo em pellets - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         350 => 
         array (
             'codigo' => 13012000,
         'descricao' => 'Goma-laca; gomas, resinas, gomas-resinas e oleorresinas (bálsamos, por exemplo), naturais - Goma-arábica',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         351 => 
         array (
             'codigo' => 13019010,
         'descricao' => 'Goma-laca; gomas, resinas, gomas-resinas e oleorresinas (bálsamos, por exemplo), naturais - Outros - Goma-laca',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         352 => 
         array (
             'codigo' => 13019090,
         'descricao' => 'Goma-laca; gomas, resinas, gomas-resinas e oleorresinas (bálsamos, por exemplo), naturais - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         353 => 
         array (
             'codigo' => 13021110,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Ópio - Concentrados de palha de papoula',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         354 => 
         array (
             'codigo' => 13021190,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Ópio - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         355 => 
         array (
             'codigo' => 13021200,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - De alcaçuz',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         356 => 
         array (
             'codigo' => 13021300,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - De lúpulo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         357 => 
         array (
             'codigo' => 13021910,
         'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - De mamão (Carica papaya), seco',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         358 => 
         array (
             'codigo' => 13021920,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - De semente de toranja ou de pomelo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         359 => 
         array (
             'codigo' => 13021930,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - De gin kgo biloba, seco',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         360 => 
         array (
             'codigo' => 13021940,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - Valepotriatos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         361 => 
         array (
             'codigo' => 13021950,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - De ginseng',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         362 => 
         array (
             'codigo' => 13021960,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - Silimarina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         363 => 
         array (
             'codigo' => 13021991,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - Outros - De piretro ou de raízes de plantas que contenha rotenona',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         364 => 
         array (
             'codigo' => 13021999,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Sucos e extratos vegetais - Outros - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         365 => 
         array (
             'codigo' => 13022010,
         'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Matérias pécticas, pectinatos e pectatos - Matérias pécticas (pectinas)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         366 => 
         array (
             'codigo' => 13022090,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Matérias pécticas, pectinatos e pectatos - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         367 => 
         array (
             'codigo' => 13023100,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Ágar-ágar',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         368 => 
         array (
             'codigo' => 13023211,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, de alfarroba, de sementes de alfarroba ou de sementes de guaré, mesmo modificados - De alfarroba ou de suas sementes - Farinha de endosperma',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         369 => 
         array (
             'codigo' => 13023219,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, de alfarroba, de sementes de alfarroba ou de sementes de guaré, mesmo modificados - De alfarroba ou de suas sementes - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         370 => 
         array (
             'codigo' => 13023220,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, de alfarroba, de sementes de alfarroba ou de sementes de guaré, mesmo modificados - De sementes de guaré',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         371 => 
         array (
             'codigo' => 13023910,
         'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Outros - Carragenina (musgo-da-irlanda)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         372 => 
         array (
             'codigo' => 13023990,
             'descricao' => 'Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         373 => 
         array (
             'codigo' => 14011000,
         'descricao' => 'Matérias vegetais das espécies principalmente utilizadas em cestaria ou espartaria (por exemplo, bambus, rotins, canas, juncos, vimes, ráfia, palha de cereais limpa, branqueada ou tingida, casca de tília) - Bambus',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         374 => 
         array (
             'codigo' => 14012000,
         'descricao' => 'Matérias vegetais das espécies principalmente utilizadas em cestaria ou espartaria (por exemplo, bambus, rotins, canas, juncos, vimes, ráfia, palha de cereais limpa, branqueada ou tingida, casca de tília) - Rotins',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         375 => 
         array (
             'codigo' => 14019000,
         'descricao' => 'Matérias vegetais das espécies principalmente utilizadas em cestaria ou espartaria (por exemplo, bambus, rotins, canas, juncos, vimes, ráfia, palha de cereais limpa, branqueada ou tingida, casca de tília) - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         376 => 
         array (
             'codigo' => 14042010,
             'descricao' => 'Produtos vegetais não especificados nem compreendidos noutras posições - Línteres de algodão - Em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         377 => 
         array (
             'codigo' => 14042090,
             'descricao' => 'Produtos vegetais não especificados nem compreendidos noutras posições - Línteres de algodão - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         378 => 
         array (
             'codigo' => 14049010,
         'descricao' => 'Produtos vegetais não especificados nem compreendidos noutras posições - Outros - Matérias vegetais das espécies principalmente utilizadas na fabricação de vassouras, escovas, pincéis e artigos semelhantes (por exemplo, sorgo, piaçaba, raiz de grama, tampico), mesmo torcidas ou em feixes',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         379 => 
         array (
             'codigo' => 14049090,
             'descricao' => 'Produtos vegetais não especificados nem compreendidos noutras posições - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         380 => 
         array (
             'codigo' => 15011000,
         'descricao' => 'Gorduras de porco (incluindo a banha) e gorduras de aves, exceto as das posições 02.09 ou 15.03 - Banha',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         381 => 
         array (
             'codigo' => 15012000,
         'descricao' => 'Gorduras de porco (incluindo a banha) e gorduras de aves, exceto as das posições 02.09 ou 15.03 - Outras gorduras de porco',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         382 => 
         array (
             'codigo' => 15019000,
         'descricao' => 'Gorduras de porco (incluindo a banha) e gorduras de aves, exceto as das posições 02.09 ou 15.03 - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         383 => 
         array (
             'codigo' => 15021011,
             'descricao' => 'Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da posição 15.03 - Sebo - Bovino - Em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         384 => 
         array (
             'codigo' => 15021012,
         'descricao' => 'Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da posição 15.03 - Sebo - Bovino - Fundido (incluindo o premier jus)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         385 => 
         array (
             'codigo' => 15021019,
             'descricao' => 'Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da posição 15.03 - Sebo - Bovino - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         386 => 
         array (
             'codigo' => 15021090,
             'descricao' => 'Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da posição 15.03 - Sebo - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         387 => 
         array (
             'codigo' => 15029000,
             'descricao' => 'Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da posição 15.03 - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         388 => 
         array (
             'codigo' => 15030000,
             'descricao' => 'Estearina solar, óleo de banha de porco, óleo-estearina, óleo-margarina e óleo de sebo, não emulsionados nem misturados, nem preparados de outro modo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         389 => 
         array (
             'codigo' => 15041011,
             'descricao' => 'Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos, mesmo refinados, mas não quimicamente modificados - Óleos de fígados de peixes e respectivas frações - De bacalhau - Óleo em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         390 => 
         array (
             'codigo' => 15041019,
             'descricao' => 'Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos, mesmo refinados, mas não quimicamente modificados - Óleos de fígados de peixes e respectivas frações - De bacalhau - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         391 => 
         array (
             'codigo' => 15041090,
             'descricao' => 'Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos, mesmo refinados, mas não quimicamente modificados - Óleos de fígados de peixes e respectivas frações - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         392 => 
         array (
             'codigo' => 15042000,
             'descricao' => 'Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos, mesmo refinados, mas não quimicamente modificados - Gorduras e óleos de peixes e respectivas frações, exceto óleos de fígados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         393 => 
         array (
             'codigo' => 15043000,
             'descricao' => 'Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos, mesmo refinados, mas não quimicamente modificados - Gorduras e óleos de mamíferos marinhos e respectivas frações',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         394 => 
         array (
             'codigo' => 15050010,
             'descricao' => 'Suarda e substâncias gordas dela derivadas, incluindo a lanolina - Lanolina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         395 => 
         array (
             'codigo' => 15050090,
             'descricao' => 'Suarda e substâncias gordas dela derivadas, incluindo a lanolina - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         396 => 
         array (
             'codigo' => 15060000,
             'descricao' => 'Outras gorduras e óleos animais, e respectivas frações, mesmo refinados, mas não quimicamente modificados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         397 => 
         array (
             'codigo' => 15071000,
             'descricao' => 'Óleo de soja e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo em bruto, mesmo degomado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         398 => 
         array (
             'codigo' => 15079011,
             'descricao' => 'Óleo de soja e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Refinado - Em recipientes com capacidade inferior ou igual a 5 l',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         399 => 
         array (
             'codigo' => 15079019,
             'descricao' => 'Óleo de soja e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Refinado - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         400 => 
         array (
             'codigo' => 15079090,
             'descricao' => 'Óleo de soja e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         401 => 
         array (
             'codigo' => 15081000,
             'descricao' => 'Óleo de amendoim e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         402 => 
         array (
             'codigo' => 15089000,
             'descricao' => 'Óleo de amendoim e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         403 => 
         array (
             'codigo' => 15091000,
         'descricao' => 'Azeite de oliva (oliveira) e respectivas frações, mesmo refinados, mas não quimicamente modificados - Virgens',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         404 => 
         array (
             'codigo' => 15099010,
         'descricao' => 'Azeite de oliva (oliveira) e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Refinado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         405 => 
         array (
             'codigo' => 15099090,
         'descricao' => 'Azeite de oliva (oliveira) e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         406 => 
         array (
             'codigo' => 15100000,
             'descricao' => 'Outros óleos e respectivas frações, obtidos exclusivamente a partir de azeitonas, mesmo refinados, mas não quimicamente modificados, e misturas desses óleos ou frações com óleos ou frações da posição 15.09',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         407 => 
         array (
             'codigo' => 15111000,
             'descricao' => 'Óleo de dendê e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         408 => 
         array (
             'codigo' => 15119000,
             'descricao' => 'Óleo de dendê e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         409 => 
         array (
             'codigo' => 15121110,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de girassol ou de cártamo e respectivas frações - Óleos em bruto - De girassol',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         410 => 
         array (
             'codigo' => 15121120,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de girassol ou de cártamo e respectivas frações - Óleos em bruto - De cártamo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         411 => 
         array (
             'codigo' => 15121911,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de girassol ou de cártamo e respectivas frações - Outros - De girassol - Refinado, em recipientes com capacidade inferior ou igual a 5 l',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         412 => 
         array (
             'codigo' => 15121919,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de girassol ou de cártamo e respectivas frações - Outros - De girassol - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         413 => 
         array (
             'codigo' => 15121920,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de girassol ou de cártamo e respectivas frações - Outros - De cártamo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         414 => 
         array (
             'codigo' => 15122100,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo de algodão e respectivas frações - Óleo em bruto, mesmo desprovido de gossipol',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         415 => 
         array (
             'codigo' => 15122910,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo de algodão e respectivas frações - Outros - Refinado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         416 => 
         array (
             'codigo' => 15122990,
             'descricao' => 'Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo de algodão e respectivas frações - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         417 => 
         array (
             'codigo' => 15131100,
         'descricao' => 'Óleos de coco (óleo de copra), de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo de coco (óleo de copra) e respectivas frações - Óleo em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         418 => 
         array (
             'codigo' => 15131900,
         'descricao' => 'Óleos de coco (óleo de copra), de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleo de coco (óleo de copra) e respectivas frações - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         419 => 
         array (
             'codigo' => 15132110,
         'descricao' => 'Óleos de coco (óleo de copra), de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações - Óleos em bruto - De amêndoa de palma (palmiste)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         420 => 
         array (
             'codigo' => 15132120,
         'descricao' => 'Óleos de coco (óleo de copra), de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações - Óleos em bruto - De babaçu',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         421 => 
         array (
             'codigo' => 15132910,
         'descricao' => 'Óleos de coco (óleo de copra), de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações - Outros - De amêndoa de palma (palmiste)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         422 => 
         array (
             'codigo' => 15132920,
         'descricao' => 'Óleos de coco (óleo de copra), de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de amêndoa de palma (palmiste) ou de babaçu, e respectivas frações - Outros - De babaçu',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         423 => 
         array (
             'codigo' => 15141100,
             'descricao' => 'Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de nabo silvestre ou de colza com baixo teor de ácido erúcico, e respectivas frações - Óleos em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         424 => 
         array (
             'codigo' => 15141910,
             'descricao' => 'Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de nabo silvestre ou de colza com baixo teor de ácido erúcico, e respectivas frações - Outros - Refinados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         425 => 
         array (
             'codigo' => 15141990,
             'descricao' => 'Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Óleos de nabo silvestre ou de colza com baixo teor de ácido erúcico, e respectivas frações - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         426 => 
         array (
             'codigo' => 15149100,
             'descricao' => 'Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Óleos em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         427 => 
         array (
             'codigo' => 15149910,
             'descricao' => 'Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Outros - Refinados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         428 => 
         array (
             'codigo' => 15149990,
             'descricao' => 'Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados - Outros - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         429 => 
         array (
             'codigo' => 15151100,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de linhaça (sementes de linho) e respectivas frações - Óleo em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         430 => 
         array (
             'codigo' => 15151900,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de linhaça (sementes de linho) e respectivas frações - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         431 => 
         array (
             'codigo' => 15152100,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de milho e respectivas frações - Óleo em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         432 => 
         array (
             'codigo' => 15152910,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de milho e respectivas frações - Outros - Refinado, em recipientes com capacidade inferior ou igual a 5 l',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         433 => 
         array (
             'codigo' => 15152990,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de milho e respectivas frações - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         434 => 
         array (
             'codigo' => 15153000,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de rícino e respectivas frações',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         435 => 
         array (
             'codigo' => 15155000,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Óleo de gergelim e respectivas frações',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         436 => 
         array (
             'codigo' => 15159010,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Outros - Óleo de jojoba e respectivas frações',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         437 => 
         array (
             'codigo' => 15159021,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Outros - Óleo de tungue - Em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         438 => 
         array (
             'codigo' => 15159022,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Outros - Óleo de tungue - Refinado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         439 => 
         array (
             'codigo' => 15159090,
         'descricao' => 'Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         440 => 
         array (
             'codigo' => 15161000,
             'descricao' => 'Gorduras e óleos animais ou vegetais e respectivas frações, parcial ou totalmente hidrogenados, interesterificados, reesterificados ou elaidinizados, mesmo refinados, mas não preparados de outro modo - Gorduras e óleos animais e respectivas frações',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         441 => 
         array (
             'codigo' => 15162000,
             'descricao' => 'Gorduras e óleos animais ou vegetais e respectivas frações, parcial ou totalmente hidrogenados, interesterificados, reesterificados ou elaidinizados, mesmo refinados, mas não preparados de outro modo - Gorduras e óleos vegetais e respectivas frações',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         442 => 
         array (
             'codigo' => 15171000,
             'descricao' => 'Margarina; misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de frações das diferentes gorduras ou óleos do presente Capítulo, exceto as gorduras e óleos alimentícios e respectivas frações da posição 15.16 - Margarina, exceto a margarina líquida',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         443 => 
         array (
             'codigo' => 15179010,
             'descricao' => 'Margarina; misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de frações das diferentes gorduras ou óleos do presente Capítulo, exceto as gorduras e óleos alimentícios e respectivas frações da posição 15.16 - Outras - Misturas de óleos refinados, em recipientes com capacidade inferior ou igual a 5 l',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         444 => 
         array (
             'codigo' => 15179090,
             'descricao' => 'Margarina; misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de frações das diferentes gorduras ou óleos do presente Capítulo, exceto as gorduras e óleos alimentícios e respectivas frações da posição 15.16 - Outras - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         445 => 
         array (
             'codigo' => 15180010,
             'descricao' => 'Gorduras e óleos animais ou vegetais e respectivas frações, cozidos, oxidados, desidratados, sulfurados, aerados, estandolizados ou modificados quimicamente por qualquer outro processo, com exclusão dos da posição 15.16; misturas ou preparações não alimentícias, de gorduras ou de óleos animais ou vegetais ou de frações de diferentes gorduras ou óleos do presente Capítulo, não especificadas nem compreendidas noutras posições - Óleo vegetal epoxidado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         446 => 
         array (
             'codigo' => 15180090,
             'descricao' => 'Gorduras e óleos animais ou vegetais e respectivas frações, cozidos, oxidados, desidratados, sulfurados, aerados, estandolizados ou modificados quimicamente por qualquer outro processo, com exclusão dos da posição 15.16; misturas ou preparações não alimentícias, de gorduras ou de óleos animais ou vegetais ou de frações de diferentes gorduras ou óleos do presente Capítulo, não especificadas nem compreendidas noutras posições - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         447 => 
         array (
             'codigo' => 15200010,
             'descricao' => 'Glicerol em bruto; águas e lixívias, glicéricas - Glicerol em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         448 => 
         array (
             'codigo' => 15200020,
             'descricao' => 'Glicerol em bruto; águas e lixívias, glicéricas - Águas e lixívias, glicéricas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         449 => 
         array (
             'codigo' => 15211000,
         'descricao' => 'Ceras vegetais (exceto os triglicéridos), ceras de abelha ou de outros insetos e espermacete, mesmo refinados ou corados - Ceras vegetais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         450 => 
         array (
             'codigo' => 15219011,
         'descricao' => 'Ceras vegetais (exceto os triglicéridos), ceras de abelha ou de outros insetos e espermacete, mesmo refinados ou corados - Outros - Cera de abelha - Em bruto',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         451 => 
         array (
             'codigo' => 15219019,
         'descricao' => 'Ceras vegetais (exceto os triglicéridos), ceras de abelha ou de outros insetos e espermacete, mesmo refinados ou corados - Outros - Cera de abelha - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         452 => 
         array (
             'codigo' => 15219090,
         'descricao' => 'Ceras vegetais (exceto os triglicéridos), ceras de abelha ou de outros insetos e espermacete, mesmo refinados ou corados - Outros - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         453 => 
         array (
             'codigo' => 15220000,
             'descricao' => 'Dégras; resíduos provenientes do tratamento das substâncias gordas ou das ceras animais ou vegetais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         454 => 
         array (
             'codigo' => 16010000,
             'descricao' => 'Enchidos e produtos semelhantes, de carne, de miudezas ou de sangue; preparações alimentícias à base de tais produtos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         455 => 
         array (
             'codigo' => 16021000,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - Preparações homogeneizadas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         456 => 
         array (
             'codigo' => 16022000,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De fígados de quaisquer animais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         457 => 
         array (
             'codigo' => 16023100,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De aves da posição 01.05 - De peruas e de perus',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         458 => 
         array (
             'codigo' => 16023210,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De aves da posição 01.05 - De galos e de galinhas - Com conteúdo de carne ou de miudezas superior ou igual a 57 %, em peso, não cozidas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         459 => 
         array (
             'codigo' => 16023220,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De aves da posição 01.05 - De galos e de galinhas - Com conteúdo de carne ou de miudezas superior ou igual a 57 %, em peso, cozidas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         460 => 
         array (
             'codigo' => 16023230,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De aves da posição 01.05 - De galos e de galinhas - Com conteúdo de carne ou de miudezas superior ou igual a 25 % e inferior a 57 %, em peso',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         461 => 
         array (
             'codigo' => 16023290,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De aves da posição 01.05 - De galos e de galinhas - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         462 => 
         array (
             'codigo' => 16023900,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - De aves da posição 01.05 - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         463 => 
         array (
             'codigo' => 16024100,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - Da espécie suína - Pernas e respectivos pedaços',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         464 => 
         array (
             'codigo' => 16024200,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - Da espécie suína - Pás e respectivos pedaços',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         465 => 
         array (
             'codigo' => 16024900,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - Da espécie suína - Outras, incluindo as misturas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         466 => 
         array (
             'codigo' => 16025000,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - Da espécie bovina',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         467 => 
         array (
             'codigo' => 16029000,
             'descricao' => 'Outras preparações e conservas de carne, de miudezas ou de sangue - Outras, incluindo as preparações de sangue de quaisquer animais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         468 => 
         array (
             'codigo' => 16030000,
             'descricao' => 'Extratos e sucos de carne, de peixes ou de crustáceos, de moluscos ou de outros invertebrados aquáticos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         469 => 
         array (
             'codigo' => 16041100,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Salmões',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         470 => 
         array (
             'codigo' => 16041200,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Arenques',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         471 => 
         array (
             'codigo' => 16041310,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Sardinhas e anchoveta - Sardinhas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         472 => 
         array (
             'codigo' => 16041390,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Sardinhas e anchoveta - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         473 => 
         array (
             'codigo' => 16041410,
         'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Atuns, bonito-listrado e outros bonitos (Sarda spp.) - Atuns',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         474 => 
         array (
             'codigo' => 16041420,
         'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Atuns, bonito-listrado e outros bonitos (Sarda spp.) - Bonito-listrado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         475 => 
         array (
             'codigo' => 16041430,
         'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Atuns, bonito-listrado e outros bonitos (Sarda spp.) - Bonito-cachorro',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         476 => 
         array (
             'codigo' => 16041500,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Cavalinhas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         477 => 
         array (
             'codigo' => 16041600,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Anchovas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         478 => 
         array (
             'codigo' => 16041700,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Enguias',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         479 => 
         array (
             'codigo' => 16041900,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Peixes inteiros ou em pedaços, exceto peixes picados - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         480 => 
         array (
             'codigo' => 16042010,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Outras preparações e conservas de peixes - De atuns',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         481 => 
         array (
             'codigo' => 16042020,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Outras preparações e conservas de peixes - De bonito-listrado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         482 => 
         array (
             'codigo' => 16042030,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Outras preparações e conservas de peixes - De sardinhas ou de anchoveta',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         483 => 
         array (
             'codigo' => 16042090,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Outras preparações e conservas de peixes - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         484 => 
         array (
             'codigo' => 16043100,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Caviar e seus sucedâneos - Caviar',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         485 => 
         array (
             'codigo' => 16043200,
             'descricao' => 'Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe - Caviar e seus sucedâneos - Sucedâneos de caviar',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         486 => 
         array (
             'codigo' => 16051000,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Caranguejos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         487 => 
         array (
             'codigo' => 16052100,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Camarões - Não acondicionados em recipientes hermeticamente fechados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         488 => 
         array (
             'codigo' => 16052900,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Camarões - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         489 => 
         array (
             'codigo' => 16053000,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Lavagantes',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         490 => 
         array (
             'codigo' => 16054000,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Outros crustáceos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         491 => 
         array (
             'codigo' => 16055100,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Ostras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         492 => 
         array (
             'codigo' => 16055200,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Vieiras e outros mariscos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         493 => 
         array (
             'codigo' => 16055300,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Mexilhões',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         494 => 
         array (
             'codigo' => 16055400,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Sépias e lulas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         495 => 
         array (
             'codigo' => 16055500,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Polvos',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         496 => 
         array (
             'codigo' => 16055600,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Ameijoas, berbigões e arcas',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         497 => 
         array (
             'codigo' => 16055700,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Abalones',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         498 => 
         array (
             'codigo' => 16055800,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Caracóis, exceto os do mar',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         499 => 
         array (
             'codigo' => 16055900,
             'descricao' => 'Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas - Moluscos - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
     ));
         \DB::table('ncms')->insert(array (
@@ -22738,519 +22452,445 @@ class NcmsTableSeeder extends Seeder
             array (
                 'codigo' => 39013010,
             'descricao' => 'Polímeros de etileno, em formas primárias - Copolímeros de etileno e acetato de vinila - Nas formas previstas na Nota 6 a) deste Capítulo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         427 => 
         array (
             'codigo' => 39013090,
             'descricao' => 'Polímeros de etileno, em formas primárias - Copolímeros de etileno e acetato de vinila - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         428 => 
         array (
             'codigo' => 39019010,
             'descricao' => 'Polímeros de etileno, em formas primárias - Outros - Copolímeros de etileno e ácido acrílico',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         429 => 
         array (
             'codigo' => 39019020,
             'descricao' => 'Polímeros de etileno, em formas primárias - Outros - Copolímeros de etileno e monômeros com radicais carboxílicos, inclusive com metacrilato de metila ou acrilato de metila como terceiro monômero',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         430 => 
         array (
             'codigo' => 39019030,
             'descricao' => 'Polímeros de etileno, em formas primárias - Outros - Polietileno clorossulfonado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         431 => 
         array (
             'codigo' => 39019040,
             'descricao' => 'Polímeros de etileno, em formas primárias - Outros - Polietileno clorado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         432 => 
         array (
             'codigo' => 39019050,
             'descricao' => 'Polímeros de etileno, em formas primárias - Outros - Copolímeros de etileno - ácido metacrílico, com um conteúdo de etileno superior ou igual a 60 %, em peso',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         433 => 
         array (
             'codigo' => 39019090,
             'descricao' => 'Polímeros de etileno, em formas primárias - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         434 => 
         array (
             'codigo' => 39021010,
             'descricao' => 'Polímeros de propileno ou de outras olefinas, em formas primárias - Polipropileno - Com carga',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         435 => 
         array (
             'codigo' => 39021020,
             'descricao' => 'Polímeros de propileno ou de outras olefinas, em formas primárias - Polipropileno - Sem carga',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         436 => 
         array (
             'codigo' => 39022000,
             'descricao' => 'Polímeros de propileno ou de outras olefinas, em formas primárias - Poliisobutileno',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         437 => 
         array (
             'codigo' => 39023000,
             'descricao' => 'Polímeros de propileno ou de outras olefinas, em formas primárias - Copolímeros de propileno',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         438 => 
         array (
             'codigo' => 39029000,
             'descricao' => 'Polímeros de propileno ou de outras olefinas, em formas primárias - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         439 => 
         array (
             'codigo' => 39031110,
             'descricao' => 'Polímeros de estireno, em formas primárias - Poliestireno - Expansível - Com carga',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         440 => 
         array (
             'codigo' => 39031120,
             'descricao' => 'Polímeros de estireno, em formas primárias - Poliestireno - Expansível - Sem carga',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         441 => 
         array (
             'codigo' => 39031900,
             'descricao' => 'Polímeros de estireno, em formas primárias - Poliestireno - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         442 => 
         array (
             'codigo' => 39032000,
         'descricao' => 'Polímeros de estireno, em formas primárias - Copolímeros de estireno-acrilonitrila (SAN)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         443 => 
         array (
             'codigo' => 39033010,
         'descricao' => 'Polímeros de estireno, em formas primárias - Copolímeros de acrilonitrila-butadieno-estireno (ABS) - Com carga',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         444 => 
         array (
             'codigo' => 39033020,
         'descricao' => 'Polímeros de estireno, em formas primárias - Copolímeros de acrilonitrila-butadieno-estireno (ABS) - Sem carga',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         445 => 
         array (
             'codigo' => 39039010,
         'descricao' => 'Polímeros de estireno, em formas primárias - Outros - Copolímeros de metacrilato de metilbutadieno-estireno (MBS)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         446 => 
         array (
             'codigo' => 39039020,
         'descricao' => 'Polímeros de estireno, em formas primárias - Outros - Copolímeros de acrilonitrilo-estireno-acrilato de butilo (ASA)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         447 => 
         array (
             'codigo' => 39039090,
             'descricao' => 'Polímeros de estireno, em formas primárias - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         448 => 
         array (
             'codigo' => 39041010,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Poli(cloreto de vinila), não misturado com outras substâncias - Obtido por processo de suspensão',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         449 => 
         array (
             'codigo' => 39041020,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Poli(cloreto de vinila), não misturado com outras substâncias - Obtido por processo de emulsão',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         450 => 
         array (
             'codigo' => 39041090,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Poli(cloreto de vinila), não misturado com outras substâncias - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         451 => 
         array (
             'codigo' => 39042100,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Outro poli(cloreto de vinila) - Não plastificado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         452 => 
         array (
             'codigo' => 39042200,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Outro poli(cloreto de vinila) - Plastificado',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         453 => 
         array (
             'codigo' => 39043000,
             'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Copolímeros de cloreto de vinila e acetato de vinila',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         454 => 
         array (
             'codigo' => 39044010,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Outros copolímeros de cloreto de vinila - Com acetato de vinila, com um ácido dibásico ou com álcool vinílico, nas formas previstas na Nota 6 b) deste Capítulo',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
     ),
     455 => 
     array (
         'codigo' => 39044090,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Outros copolímeros de cloreto de vinila - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
     ),
     456 => 
     array (
         'codigo' => 39045010,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Polímeros de cloreto de vinilideno - Copolímeros de cloreto de vinilideno, sem emulsionante nem plastificante',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
     ),
     457 => 
     array (
         'codigo' => 39045090,
         'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Polímeros de cloreto de vinilideno - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
     ),
     458 => 
     array (
         'codigo' => 39046110,
     'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Polímeros fluorados - Politetrafluoretileno - Nas formas previstas na Nota 6 a) deste Capítulo',
-    'created_at' => '0000-00-00 00:00:00',
-    'updated_at' => '0000-00-00 00:00:00',
+    
         ),
         459 => 
         array (
             'codigo' => 39046190,
             'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Polímeros fluorados - Politetrafluoretileno - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         460 => 
         array (
             'codigo' => 39046910,
             'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Polímeros fluorados - Outros - Copolímero de fluoreto de vinilideno e hexafluorpropileno',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         461 => 
         array (
             'codigo' => 39046990,
             'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Polímeros fluorados - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         462 => 
         array (
             'codigo' => 39049000,
             'descricao' => 'Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         463 => 
         array (
             'codigo' => 39051200,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Poli(acetato de vinila) - Em dispersão aquosa',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         464 => 
         array (
             'codigo' => 39051910,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Poli(acetato de vinila) - Outros - Com grupos álcool vinílico, nas formas previstas na Nota 6 b) deste Capítulo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         465 => 
         array (
             'codigo' => 39051990,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Poli(acetato de vinila) - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         466 => 
         array (
             'codigo' => 39052100,
             'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Copolímeros de acetato de vinila - Em dispersão aquosa',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         467 => 
         array (
             'codigo' => 39052900,
             'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Copolímeros de acetato de vinila - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         468 => 
         array (
             'codigo' => 39053000,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Poli(álcool vinílico), mesmo que contenham grupos acetato não hidrolisados',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         469 => 
         array (
             'codigo' => 39059130,
             'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Outros - Copolímeros - De vinilpirrolidona e acetato de vinila, em solução alcoólica',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         470 => 
         array (
             'codigo' => 39059190,
             'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Outros - Copolímeros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         471 => 
         array (
             'codigo' => 39059910,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Outros - Outros - Poli(vinilformal)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         472 => 
         array (
             'codigo' => 39059920,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Outros - Outros - Poli(butiral de vinila)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         473 => 
         array (
             'codigo' => 39059930,
         'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Outros - Outros - Poli(vinilpirrolidona) iodada',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         474 => 
         array (
             'codigo' => 39059990,
             'descricao' => 'Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias - Outros - Outros - Outros',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         475 => 
         array (
             'codigo' => 39061000,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Poli(metacrilato de metila)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         476 => 
         array (
             'codigo' => 39069011,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em água - Poli(ácido acrílico) e seus sais',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         477 => 
         array (
             'codigo' => 39069012,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em água - Sal sódico do poli(ácido acrilamídico), solúvel em água',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         478 => 
         array (
             'codigo' => 39069019,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em água - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         479 => 
         array (
         'codigo' => 39069021,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em solventes orgânicos - Poli(ácido acrílico) e seus sais',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         480 => 
         array (
         'codigo' => 39069022,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em solventes orgânicos - Copolímero de metacrilato de 2-diisopropilaminoetila e metacrilato de n-decila, em suspensão de dimetilacetamida',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         481 => 
         array (
         'codigo' => 39069029,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em solventes orgânicos - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         482 => 
         array (
         'codigo' => 39069031,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em outros solventes ou sem solvente - Poli(ácido acrílico) e seus sais',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         483 => 
         array (
         'codigo' => 39069032,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em outros solventes ou sem solvente - Sal sódico do poli(ácido acrilamídico), solúvel em água',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         484 => 
         array (
         'codigo' => 39069039,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 a) deste Capítulo, em outros solventes ou sem solvente - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         485 => 
         array (
         'codigo' => 39069041,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Poli(ácido acrílico) e seus sais',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         486 => 
         array (
         'codigo' => 39069042,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Sal sódico do poli(ácido acrilamídico), solúvel em água',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         487 => 
         array (
         'codigo' => 39069043,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Carboxipolimetileno, em pó',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         488 => 
         array (
         'codigo' => 39069044,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Poli(acrilato de sódio), com capacidade de absorção de uma solução aquosa de cloreto de sódio 0,9 %, em peso, superior ou igual a vinte vezes seu próprio peso',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         489 => 
         array (
         'codigo' => 39069045,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Copolímero de poli(acrilato de potássio) e poli(acrilamida), com capacidade de absorção de água destilada de até quatrocentas vezes seu próprio peso',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         490 => 
         array (
         'codigo' => 39069046,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Copolímeros de acrilato de metila-etileno com um conteúdo de acrilato de metila superior ou igual a 50 %, em peso',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         491 => 
         array (
         'codigo' => 39069047,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Copolímero de acrilato de etila, acrilato de n-butila e acrilato de 2-metoxietila',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         492 => 
         array (
         'codigo' => 39069049,
         'descricao' => 'Polímeros acrílicos, em formas primárias - Outros - Nas formas previstas na Nota 6 b) deste Capítulo - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         493 => 
         array (
         'codigo' => 39071010,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Com carga, nas formas previstas na Nota 6 a) deste Capítulo',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         494 => 
         array (
         'codigo' => 39071020,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Com carga, nas formas previstas na Nota 6 b) deste Capítulo',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         495 => 
         array (
         'codigo' => 39071031,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Sem carga, nas formas previstas na Nota 6 a) deste Capítulo - Polidextrose',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         496 => 
         array (
         'codigo' => 39071039,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Sem carga, nas formas previstas na Nota 6 a) deste Capítulo - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         497 => 
         array (
         'codigo' => 39071041,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Sem carga, nas formas previstas na Nota 6 b) deste Capítulo, não estabilizados - Polidextrose',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         498 => 
         array (
         'codigo' => 39071042,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Sem carga, nas formas previstas na Nota 6 b) deste Capítulo, não estabilizados - Outros, em pó que passe através de uma peneira com abertura de malha de 0,85 mm em proporção superior a 80 %, em peso',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         499 => 
         array (
         'codigo' => 39071049,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poliacetais - Sem carga, nas formas previstas na Nota 6 b) deste Capítulo, não estabilizados - Outros',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
         ),
         ));
 
@@ -23314,3424 +22954,2935 @@ class NcmsTableSeeder extends Seeder
             array (
                 'codigo' => 39073011,
             'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas epóxidas - Com carga - Nas formas previstas na Nota 6 a) deste Capítulo',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         12 => 
         array (
             'codigo' => 39073019,
             'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas epóxidas - Com carga - Outras',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         13 => 
         array (
             'codigo' => 39073021,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas epóxidas - Sem carga - Copolímero de tetrabromobisfenol A e epicloridrina (resina epóxida bromada)',
-            'created_at' => '0000-00-00 00:00:00',
-            'updated_at' => '0000-00-00 00:00:00',
+            
         ),
         14 => 
         array (
             'codigo' => 39073022,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas epóxidas - Sem carga - Outras, nas formas previstas na Nota 6 a) deste Capítulo',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
     ),
     15 => 
     array (
         'codigo' => 39073029,
         'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas epóxidas - Sem carga - Outras',
-        'created_at' => '0000-00-00 00:00:00',
-        'updated_at' => '0000-00-00 00:00:00',
+        
     ),
     16 => 
     array (
         'codigo' => 39074010,
     'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Policarbonatos - Nas formas previstas na Nota 6 b) deste Capítulo, com transmissão de luz de comprimento de onda de 550 nm ou 800 nm, superior a 89 %, segundo Norma ASTM D 1003-00 e índice de fluidez de massa superior ou igual a 60 g/10 min e inferior ou igual a 80 g/10 min segundo Norma ASTM D 1238',
-    'created_at' => '0000-00-00 00:00:00',
-    'updated_at' => '0000-00-00 00:00:00',
+    
 ),
 17 => 
 array (
     'codigo' => 39074090,
     'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Policarbonatos - Outros',
-    'created_at' => '0000-00-00 00:00:00',
-    'updated_at' => '0000-00-00 00:00:00',
+    
 ),
 18 => 
 array (
     'codigo' => 39075010,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas alquídicas - Nas formas previstas na Nota 6 a) deste Capítulo',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 19 => 
 array (
 'codigo' => 39075090,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Resinas alquídicas - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 20 => 
 array (
 'codigo' => 39076000,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poli(tereftalato de etileno)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 21 => 
 array (
 'codigo' => 39077000,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Poli(ácido láctico)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 22 => 
 array (
 'codigo' => 39079100,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Não saturados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 23 => 
 array (
 'codigo' => 39079911,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Outros - Poli(tereftalato de butileno) - Com carga de fibra de vidro',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 24 => 
 array (
 'codigo' => 39079912,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Outros - Poli(tereftalato de butileno) - Outros, nas formas previstas na Nota 6 a) deste Capítulo',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 25 => 
 array (
 'codigo' => 39079919,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Outros - Poli(tereftalato de butileno) - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 26 => 
 array (
 'codigo' => 39079991,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Outros - Outros - Nas formas previstas na Nota 6 a) deste Capítulo',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 27 => 
 array (
 'codigo' => 39079992,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Outros - Outros - Poli(epsilon caprolactona)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 28 => 
 array (
 'codigo' => 39079999,
 'descricao' => 'Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias - Outros poliésteres - Outros - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 29 => 
 array (
 'codigo' => 39081011,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 a) deste Capítulo - Poliamida-11',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 30 => 
 array (
 'codigo' => 39081012,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 a) deste Capítulo - Poliamida-12',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 31 => 
 array (
 'codigo' => 39081013,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 a) deste Capítulo - Poliamida-6 ou poliamida-6,6, com carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 32 => 
 array (
 'codigo' => 39081014,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 a) deste Capítulo - Poliamida-6 ou poliamida-6,6, sem carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 33 => 
 array (
 'codigo' => 39081019,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 a) deste Capítulo - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 34 => 
 array (
 'codigo' => 39081021,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 b) deste Capítulo - Poliamida-11',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 35 => 
 array (
 'codigo' => 39081022,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 b) deste Capítulo - Poliamida-12',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 36 => 
 array (
 'codigo' => 39081023,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 b) deste Capítulo - Poliamida-6 ou poliamida-6,6, com carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 37 => 
 array (
 'codigo' => 39081024,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 b) deste Capítulo - Poliamida-6 ou poliamida-6,6, sem carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 38 => 
 array (
 'codigo' => 39081029,
 'descricao' => 'Poliamidas em formas primárias - Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12 - Nas formas previstas na Nota 6 b) deste Capítulo - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 39 => 
 array (
 'codigo' => 39089010,
 'descricao' => 'Poliamidas em formas primárias - Outras - Copolímero de lauril-lactama',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 40 => 
 array (
 'codigo' => 39089020,
 'descricao' => 'Poliamidas em formas primárias - Outras - Obtidas por condensação de ácidos graxos dimerizados ou trimerizados com etilenaminas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 41 => 
 array (
 'codigo' => 39089090,
 'descricao' => 'Poliamidas em formas primárias - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 42 => 
 array (
 'codigo' => 39091000,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas ureicas; resinas de tioureia',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 43 => 
 array (
 'codigo' => 39092011,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas melamínicas - Com carga - Melamina-formaldeído, em pó',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 44 => 
 array (
 'codigo' => 39092019,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas melamínicas - Com carga - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 45 => 
 array (
 'codigo' => 39092021,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas melamínicas - Sem carga - Melamina-formaldeído, em pó',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 46 => 
 array (
 'codigo' => 39092029,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas melamínicas - Sem carga - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 47 => 
 array (
 'codigo' => 39093010,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Outras resinas amínicas - Com carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 48 => 
 array (
 'codigo' => 39093020,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Outras resinas amínicas - Sem carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 49 => 
 array (
 'codigo' => 39094011,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas fenólicas - Lipossolúveis, puras ou modificadas - Fenol-formaldeído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 50 => 
 array (
 'codigo' => 39094019,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas fenólicas - Lipossolúveis, puras ou modificadas - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 51 => 
 array (
 'codigo' => 39094091,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas fenólicas - Outras - Fenol-formaldeído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 52 => 
 array (
 'codigo' => 39094099,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Resinas fenólicas - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 53 => 
 array (
 'codigo' => 39095011,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Poliuretanos - Nas formas previstas na Nota 6 a) deste Capítulo - Soluções em solventes orgânicos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 54 => 
 array (
 'codigo' => 39095012,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Poliuretanos - Nas formas previstas na Nota 6 a) deste Capítulo - Em dispersão aquosa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 55 => 
 array (
 'codigo' => 39095019,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Poliuretanos - Nas formas previstas na Nota 6 a) deste Capítulo - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 56 => 
 array (
 'codigo' => 39095021,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Poliuretanos - Nas formas previstas na Nota 6 b) deste Capítulo - Hidroxilados, com propriedades adesivas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 57 => 
 array (
 'codigo' => 39095029,
 'descricao' => 'Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias - Poliuretanos - Nas formas previstas na Nota 6 b) deste Capítulo - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 58 => 
 array (
 'codigo' => 39100011,
 'descricao' => 'Silicones em formas primárias - Óleos - Misturas de pré-polímeros lineares e cíclicos, obtidos por hidrólise de dimetildiclorosilano, de peso molecular médio inferior ou igual a 8.800',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 59 => 
 array (
 'codigo' => 39100012,
 'descricao' => 'Silicones em formas primárias - Óleos - Polidimetilsiloxano, polimetilidrogenosiloxano ou misturas destes produtos, em dispersão',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 60 => 
 array (
 'codigo' => 39100013,
 'descricao' => 'Silicones em formas primárias - Óleos - Copolímeros de dimetilsiloxano com compostos vinílicos, de viscosidade superior ou igual a 1.000.000 cSt',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 61 => 
 array (
 'codigo' => 39100019,
 'descricao' => 'Silicones em formas primárias - Óleos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 62 => 
 array (
 'codigo' => 39100021,
 'descricao' => 'Silicones em formas primárias - Elastômeros - De vulcanização a quente',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 63 => 
 array (
 'codigo' => 39100029,
 'descricao' => 'Silicones em formas primárias - Elastômeros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 64 => 
 array (
 'codigo' => 39100030,
 'descricao' => 'Silicones em formas primárias - Resinas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 65 => 
 array (
 'codigo' => 39100090,
 'descricao' => 'Silicones em formas primárias - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 66 => 
 array (
 'codigo' => 39111010,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Resinas de petróleo, resinas de cumarona, resinas de indeno, resinas de cumarona-indeno e politerpenos - Com carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 67 => 
 array (
 'codigo' => 39111021,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Resinas de petróleo, resinas de cumarona, resinas de indeno, resinas de cumarona-indeno e politerpenos - Sem carga - Resinas de petróleo, total ou parcialmente hidrogenadas, de Cor Gardner inferior a 3, segundo Norma ASTM D 1544',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 68 => 
 array (
 'codigo' => 39111029,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Resinas de petróleo, resinas de cumarona, resinas de indeno, resinas de cumarona-indeno e politerpenos - Sem carga - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 69 => 
 array (
 'codigo' => 39119011,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Com carga - Politerpenos modificados quimicamente, exceto com fenóis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 70 => 
 array (
 'codigo' => 39119012,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Com carga - Polieterimidas (PEI) e seus copolímeros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 71 => 
 array (
 'codigo' => 39119013,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Com carga - Polietersulfonas (PES) e seus copolímeros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 72 => 
 array (
 'codigo' => 39119014,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Com carga - Poli(sulfeto de fenileno)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 73 => 
 array (
 'codigo' => 39119019,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Com carga - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 74 => 
 array (
 'codigo' => 39119021,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Politerpenos modificados quimicamente, exceto com fenóis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 75 => 
 array (
 'codigo' => 39119022,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Poli(sulfeto de fenileno)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 76 => 
 array (
 'codigo' => 39119023,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Polietilenaminas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 77 => 
 array (
 'codigo' => 39119024,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Polieterimidas (PEI) e seus copolímeros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 78 => 
 array (
 'codigo' => 39119025,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Polietersulfonas (PES) e seus copolímeros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 79 => 
 array (
 'codigo' => 39119026,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Polissulfonas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 80 => 
 array (
 'codigo' => 39119029,
 'descricao' => 'Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sem carga - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 81 => 
 array (
 'codigo' => 39121110,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Acetatos de celulose - Não plastificados - Com carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 82 => 
 array (
 'codigo' => 39121120,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Acetatos de celulose - Não plastificados - Sem carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 83 => 
 array (
 'codigo' => 39121200,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Acetatos de celulose - Plastificados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 84 => 
 array (
 'codigo' => 39122010,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Nitratos de celulose (incluindo os colódios) - Com carga',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 85 => 
 array (
 'codigo' => 39122021,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Nitratos de celulose (incluindo os colódios) - Sem carga - Em álcool, com um teor de não voláteis superior ou igual a 65 %, em peso',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 86 => 
 array (
 'codigo' => 39122029,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Nitratos de celulose (incluindo os colódios) - Sem carga - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 87 => 
 array (
 'codigo' => 39123111,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Carboximetilcelulose e seus sais - Carboximetilcelulose - Com um teor de carboximetilcelulose superior ou igual a 75 %, em peso',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 88 => 
 array (
 'codigo' => 39123119,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Carboximetilcelulose e seus sais - Carboximetilcelulose - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 89 => 
 array (
 'codigo' => 39123121,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Carboximetilcelulose e seus sais - Sais - Com um teor de sais superior ou igual a 75 %, em peso',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 90 => 
 array (
 'codigo' => 39123129,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Carboximetilcelulose e seus sais - Sais - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 91 => 
 array (
 'codigo' => 39123910,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Outros - Metil-, etil- e propilcelulose, hidroxiladas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 92 => 
 array (
 'codigo' => 39123920,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Outros - Outras metilceluloses',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 93 => 
 array (
 'codigo' => 39123930,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Outros - Outras etilceluloses',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 94 => 
 array (
 'codigo' => 39123990,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Éteres de celulose - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 95 => 
 array (
 'codigo' => 39129010,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Propionato de celulose',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 96 => 
 array (
 'codigo' => 39129020,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Acetobutanoato de celulose',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 97 => 
 array (
 'codigo' => 39129031,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Celulose microcristalina - Em pó',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 98 => 
 array (
 'codigo' => 39129039,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Celulose microcristalina - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 99 => 
 array (
 'codigo' => 39129040,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Outras celuloses, em pó',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 100 => 
 array (
 'codigo' => 39129090,
 'descricao' => 'Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 101 => 
 array (
 'codigo' => 39131000,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Ácido algínico, seus sais e seus ésteres',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 102 => 
 array (
 'codigo' => 39139011,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Derivados químicos da borracha natural - Borracha clorada ou cloridratada, nas formas previstas na Nota 6 b) deste Capítulo',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 103 => 
 array (
 'codigo' => 39139012,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Derivados químicos da borracha natural - Borracha clorada, noutras formas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 104 => 
 array (
 'codigo' => 39139019,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Derivados químicos da borracha natural - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 105 => 
 array (
 'codigo' => 39139020,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Goma xantana',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 106 => 
 array (
 'codigo' => 39139030,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Dextrana',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 107 => 
 array (
 'codigo' => 39139040,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Proteínas endurecidas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 108 => 
 array (
 'codigo' => 39139050,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Quitosan (Chitosan), seus sais ou seus derivados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 109 => 
 array (
 'codigo' => 39139060,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Sulfato de condroitina',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 110 => 
 array (
 'codigo' => 39139090,
 'descricao' => 'Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 111 => 
 array (
 'codigo' => 39140011,
 'descricao' => 'Permutadores de íons à base de polímeros das posições 39.01 a 39.13, em formas primárias - De poliestireno e seus copolímeros - De copolímeros de estireno-divinilbenzeno, sulfonados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 112 => 
 array (
 'codigo' => 39140019,
 'descricao' => 'Permutadores de íons à base de polímeros das posições 39.01 a 39.13, em formas primárias - De poliestireno e seus copolímeros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 113 => 
 array (
 'codigo' => 39140090,
 'descricao' => 'Permutadores de íons à base de polímeros das posições 39.01 a 39.13, em formas primárias - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 114 => 
 array (
 'codigo' => 39151000,
 'descricao' => 'Desperdícios, resíduos e aparas, de plásticos - De polímeros de etileno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 115 => 
 array (
 'codigo' => 39152000,
 'descricao' => 'Desperdícios, resíduos e aparas, de plásticos - De polímeros de estireno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 116 => 
 array (
 'codigo' => 39153000,
 'descricao' => 'Desperdícios, resíduos e aparas, de plásticos - De polímeros de cloreto de vinila',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 117 => 
 array (
 'codigo' => 39159000,
 'descricao' => 'Desperdícios, resíduos e aparas, de plásticos - De outros plásticos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 118 => 
 array (
 'codigo' => 39161000,
 'descricao' => 'Monofilamentos cuja maior dimensão do corte transversal seja superior a 1 mm (monofios), varas, bastões e perfis, mesmo trabalhados à superfície, mas não trabalhados de outro modo, de plásticos - De polímeros de etileno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 119 => 
 array (
 'codigo' => 39162000,
 'descricao' => 'Monofilamentos cuja maior dimensão do corte transversal seja superior a 1 mm (monofios), varas, bastões e perfis, mesmo trabalhados à superfície, mas não trabalhados de outro modo, de plásticos - De polímeros de cloreto de vinila',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 120 => 
 array (
 'codigo' => 39169010,
 'descricao' => 'Monofilamentos cuja maior dimensão do corte transversal seja superior a 1 mm (monofios), varas, bastões e perfis, mesmo trabalhados à superfície, mas não trabalhados de outro modo, de plásticos - De outros plásticos - Monofilamentos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 121 => 
 array (
 'codigo' => 39169090,
 'descricao' => 'Monofilamentos cuja maior dimensão do corte transversal seja superior a 1 mm (monofios), varas, bastões e perfis, mesmo trabalhados à superfície, mas não trabalhados de outro modo, de plásticos - De outros plásticos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 122 => 
 array (
 'codigo' => 39171010,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tripas artificiais de proteínas endurecidas ou de plásticos celulósicos - De proteínas endurecidas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 123 => 
 array (
 'codigo' => 39171021,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tripas artificiais de proteínas endurecidas ou de plásticos celulósicos - De plásticos celulósicos - Fibrosas, de celulose regenerada, de diâmetro superior ou igual a 150 mm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 124 => 
 array (
 'codigo' => 39171029,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tripas artificiais de proteínas endurecidas ou de plásticos celulósicos - De plásticos celulósicos - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 125 => 
 array (
 'codigo' => 39172100,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tubos rígidos - De polímeros de etileno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 126 => 
 array (
 'codigo' => 39172200,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tubos rígidos - De polímeros de propileno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 127 => 
 array (
 'codigo' => 39172300,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tubos rígidos - De polímeros de cloreto de vinila',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 128 => 
 array (
 'codigo' => 39172900,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Tubos rígidos - De outros plásticos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 129 => 
 array (
 'codigo' => 39173100,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Tubos flexíveis podendo suportar uma pressão mínima de 27,6 MPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 130 => 
 array (
 'codigo' => 39173210,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De copolímeros de etileno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 131 => 
 array (
 'codigo' => 39173221,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De polipropileno - Tubos capilares, semipermeáveis, próprios para hemodiálise ou para oxigenação sanguínea',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 132 => 
 array (
 'codigo' => 39173229,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De polipropileno - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 133 => 
 array (
 'codigo' => 39173230,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De poli(tereftalato de etileno)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 134 => 
 array (
 'codigo' => 39173240,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De silicones',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 135 => 
 array (
 'codigo' => 39173251,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De celulose regenerada - Tubos capilares, semipermeáveis, próprios para hemodiálise',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 136 => 
 array (
 'codigo' => 39173259,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - De celulose regenerada - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 137 => 
 array (
 'codigo' => 39173290,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, sem acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 138 => 
 array (
 'codigo' => 39173300,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, com acessórios',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 139 => 
 array (
 'codigo' => 39173900,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Outros tubos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 140 => 
 array (
 'codigo' => 39174010,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Acessórios - Dos tipos utilizados em linhas de sangue para hemodiálise',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 141 => 
 array (
 'codigo' => 39174090,
 'descricao' => 'Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos - Acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 142 => 
 array (
 'codigo' => 39181000,
 'descricao' => 'Revestimentos de pisos (pavimentos), de plásticos, mesmo auto-adesivos, em rolos ou em forma de ladrilhos ou de mosaicos; revestimentos de paredes ou de tetos, de plásticos, definidos na Nota 9 do presente Capítulo - De polímeros de cloreto de vinila',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 143 => 
 array (
 'codigo' => 39189000,
 'descricao' => 'Revestimentos de pisos (pavimentos), de plásticos, mesmo auto-adesivos, em rolos ou em forma de ladrilhos ou de mosaicos; revestimentos de paredes ou de tetos, de plásticos, definidos na Nota 9 do presente Capítulo - De outros plásticos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 144 => 
 array (
 'codigo' => 39191000,
 'descricao' => 'Chapas, folhas, tiras, fitas, películas e outras formas planas, auto-adesivas, de plásticos, mesmo em rolos - Em rolos de largura não superior a 20 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 145 => 
 array (
 'codigo' => 39199000,
 'descricao' => 'Chapas, folhas, tiras, fitas, películas e outras formas planas, auto-adesivas, de plásticos, mesmo em rolos - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 146 => 
 array (
 'codigo' => 39201010,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de etileno - De densidade superior ou igual a 0,94, espessura inferior ou igual a 19 micrômetros (mícrons), em rolos de largura inferior ou igual a 66 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 147 => 
 array (
 'codigo' => 39201091,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de etileno - Outras - De densidade inferior a 0,94, com óleo de parafina e carga (sílica e negro-de-carbono), apresentando nervuras paralelas entre si, com uma resistência elétrica superior ou igual a 0,030 ohms.cm2 mas inferior ou igual a 0,120 ohms.cm2, em rolos, dos tipos utilizados para a fabricação de separadores de acumuladores elétricos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 148 => 
 array (
 'codigo' => 39201099,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de etileno - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 149 => 
 array (
 'codigo' => 39202011,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de propileno - Biaxialmente orientados - De largura inferior ou igual a 12,5 cm e espessura inferior ou igual a 10 micrômetros (mícrons), metalizadas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 150 => 
 array (
 'codigo' => 39202012,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de propileno - Biaxialmente orientados - De largura inferior ou igual a 50 cm e espessura inferior ou igual a 25 micrômetros (mícrons), com uma ou ambas as faces rugosas de rugosidade relativa (relação entre a espessura média e a máxima) superior ou igual a 6 %, de rigidez dielétrica superior ou igual a 500 V/micrômetro (Norma ASTM D 3755-97), em rolos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 151 => 
 array (
 'codigo' => 39202019,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de propileno - Biaxialmente orientados - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 152 => 
 array (
 'codigo' => 39202090,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de propileno - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 153 => 
 array (
 'codigo' => 39203000,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de estireno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 154 => 
 array (
 'codigo' => 39204310,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de cloreto de vinila - Que contenham, em peso, pelo menos 6 % de plastificantes - De poli(cloreto de vinila), transparentes, termocontráteis, de espessura inferior ou igual a 250 micrômetros (mícrons)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 155 => 
 array (
 'codigo' => 39204390,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de cloreto de vinila - Que contenham, em peso, pelo menos 6 % de plastificantes - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 156 => 
 array (
 'codigo' => 39204900,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros de cloreto de vinila - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 157 => 
 array (
 'codigo' => 39205100,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros acrílicos - De poli(metacrilato de metila)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 158 => 
 array (
 'codigo' => 39205900,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De polímeros acrílicos - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 159 => 
 array (
 'codigo' => 39206100,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De policarbonatos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 160 => 
 array (
 'codigo' => 39206211,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De poli(tereftalato de etileno) - De espessura inferior ou igual a 40 micrômetros (mícrons) - De espessura inferior a 5 micrômetros (mícrons)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 161 => 
 array (
 'codigo' => 39206219,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De poli(tereftalato de etileno) - De espessura inferior ou igual a 40 micrômetros (mícrons) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 162 => 
 array (
 'codigo' => 39206291,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De poli(tereftalato de etileno) - Outras - Com largura superior a 12 cm, sem qualquer trabalho à superfície',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 163 => 
 array (
 'codigo' => 39206299,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De poli(tereftalato de etileno) - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 164 => 
 array (
 'codigo' => 39206300,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De poliésteres não saturados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 165 => 
 array (
 'codigo' => 39206900,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres - De outros poliésteres',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 166 => 
 array (
 'codigo' => 39207100,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De celulose ou dos seus derivados químicos - De celulose regenerada',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 167 => 
 array (
 'codigo' => 39207310,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De celulose ou dos seus derivados químicos - De acetatos de celulose - De espessura inferior ou igual a 0,75 mm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 168 => 
 array (
 'codigo' => 39207390,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De celulose ou dos seus derivados químicos - De acetatos de celulose - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 169 => 
 array (
 'codigo' => 39207910,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De celulose ou dos seus derivados químicos - De outros derivados da celulose - De fibra vulcanizada, de espessura inferior ou igual a 1 mm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 170 => 
 array (
 'codigo' => 39207990,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De celulose ou dos seus derivados químicos - De outros derivados da celulose - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 171 => 
 array (
 'codigo' => 39209100,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De poli(butiral de vinila)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 172 => 
 array (
 'codigo' => 39209200,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De poliamidas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 173 => 
 array (
 'codigo' => 39209300,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De resinas amínicas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 174 => 
 array (
 'codigo' => 39209400,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De resinas fenólicas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 175 => 
 array (
 'codigo' => 39209910,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De outros plásticos - De silicone',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 176 => 
 array (
 'codigo' => 39209920,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De outros plásticos - De poli(álcool vinílico)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 177 => 
 array (
 'codigo' => 39209930,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De outros plásticos - De polímeros de fluoreto de vinila',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 178 => 
 array (
 'codigo' => 39209940,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De outros plásticos - De poliimida',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 179 => 
 array (
 'codigo' => 39209950,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De outros plásticos - De poli(clorotrifluoretileno)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 180 => 
 array (
 'codigo' => 39209990,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos não alveolares, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias - De outros plásticos - De outros plásticos - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 181 => 
 array (
 'codigo' => 39211100,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Produtos alveolares - De polímeros de estireno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 182 => 
 array (
 'codigo' => 39211200,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Produtos alveolares - De polímeros de cloreto de vinila',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 183 => 
 array (
 'codigo' => 39211310,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Produtos alveolares - De poliuretanos - Com base poliéster, de células abertas, com um número de poros por decímetro linear superior ou igual a 24 e inferior ou igual a 157 (6 a 40 poros por polegada linear), com resistência à compressão 50 % (RC50) superior ou igual a 3,0 kPa e inferior ou igual a 6,0 kPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 184 => 
 array (
 'codigo' => 39211390,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Produtos alveolares - De poliuretanos - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 185 => 
 array (
 'codigo' => 39211400,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Produtos alveolares - De celulose regenerada',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 186 => 
 array (
 'codigo' => 39211900,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Produtos alveolares - De outros plásticos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 187 => 
 array (
 'codigo' => 39219011,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Outras - Estratificadas, reforçadas ou com suporte - De resina melamina-formaldeído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 188 => 
 array (
 'codigo' => 39219012,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Outras - Estratificadas, reforçadas ou com suporte - De polietileno, com reforço de napas de fibras de polietileno paralelizadas, superpostas entre si em ângulo de 90° e impregnadas com resinas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 189 => 
 array (
 'codigo' => 39219019,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Outras - Estratificadas, reforçadas ou com suporte - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 190 => 
 array (
 'codigo' => 39219020,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Outras - De poli(tereftalato de etileno), com camada antiestática à base de gelatina ou de látex em ambas as faces, mesmo com halogenetos de potássio',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 191 => 
 array (
 'codigo' => 39219090,
 'descricao' => 'Outras chapas, folhas, películas, tiras e lâminas, de plásticos - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 192 => 
 array (
 'codigo' => 39221000,
 'descricao' => 'Banheiras, boxes para chuveiros, pias, lavatórios, bidés, sanitários e seus assentos e tampas, caixas de descarga e artigos semelhantes para usos sanitários ou higiênicos, de plásticos - Banheiras, boxes para chuveiros, pias e lavatórios',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 193 => 
 array (
 'codigo' => 39222000,
 'descricao' => 'Banheiras, boxes para chuveiros, pias, lavatórios, bidés, sanitários e seus assentos e tampas, caixas de descarga e artigos semelhantes para usos sanitários ou higiênicos, de plásticos - Assentos e tampas, de sanitários',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 194 => 
 array (
 'codigo' => 39229000,
 'descricao' => 'Banheiras, boxes para chuveiros, pias, lavatórios, bidés, sanitários e seus assentos e tampas, caixas de descarga e artigos semelhantes para usos sanitários ou higiênicos, de plásticos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 195 => 
 array (
 'codigo' => 39231010,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Caixas, caixotes, engradados e artigos semelhantes - Estojos de plástico, dos tipos utilizados para acondicionar discos para sistemas de leitura por raio laser',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 196 => 
 array (
 'codigo' => 39231090,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Caixas, caixotes, engradados e artigos semelhantes - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 197 => 
 array (
 'codigo' => 39232110,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Sacos de quaisquer dimensões, bolsas e cartuchos - De polímeros de etileno - De capacidade inferior ou igual a 1.000 cm3',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 198 => 
 array (
 'codigo' => 39232190,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Sacos de quaisquer dimensões, bolsas e cartuchos - De polímeros de etileno - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 199 => 
 array (
 'codigo' => 39232910,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Sacos de quaisquer dimensões, bolsas e cartuchos - De outros plásticos - De capacidade inferior ou igual a 1.000 cm3',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 200 => 
 array (
 'codigo' => 39232990,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Sacos de quaisquer dimensões, bolsas e cartuchos - De outros plásticos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 201 => 
 array (
 'codigo' => 39233000,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Garrafões, garrafas, frascos e artigos semelhantes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 202 => 
 array (
 'codigo' => 39234000,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Bobinas, carretéis, canelas e suportes semelhantes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 203 => 
 array (
 'codigo' => 39235000,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 204 => 
 array (
 'codigo' => 39239000,
 'descricao' => 'Artigos de transporte ou de embalagem, de plásticos; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plásticos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 205 => 
 array (
 'codigo' => 39241000,
 'descricao' => 'Serviços de mesa e outros artigos de uso doméstico, de higiene ou de toucador, de plásticos - Serviços de mesa e outros utensílios de mesa ou de cozinha',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 206 => 
 array (
 'codigo' => 39249000,
 'descricao' => 'Serviços de mesa e outros artigos de uso doméstico, de higiene ou de toucador, de plásticos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 207 => 
 array (
 'codigo' => 39251000,
 'descricao' => 'Artefatos para apetrechamento de construções, de plásticos, não especificados nem compreendidos noutras posições - Reservatórios, cisternas, cubas e recipientes análogos, de capacidade superior a 300 l',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 208 => 
 array (
 'codigo' => 39252000,
 'descricao' => 'Artefatos para apetrechamento de construções, de plásticos, não especificados nem compreendidos noutras posições - Portas, janelas e seus caixilhos, alizares e soleiras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 209 => 
 array (
 'codigo' => 39253000,
 'descricao' => 'Artefatos para apetrechamento de construções, de plásticos, não especificados nem compreendidos noutras posições - Postigos, estores (incluindo as venezianas) e artefatos semelhantes, e suas partes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 210 => 
 array (
 'codigo' => 39259010,
 'descricao' => 'Artefatos para apetrechamento de construções, de plásticos, não especificados nem compreendidos noutras posições - Outros - De poliestireno expandido (EPS)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 211 => 
 array (
 'codigo' => 39259090,
 'descricao' => 'Artefatos para apetrechamento de construções, de plásticos, não especificados nem compreendidos noutras posições - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 212 => 
 array (
 'codigo' => 39261000,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Artigos de escritório e artigos escolares',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 213 => 
 array (
 'codigo' => 39262000,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 214 => 
 array (
 'codigo' => 39263000,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Guarnições para móveis, carroçarias ou semelhantes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 215 => 
 array (
 'codigo' => 39264000,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Estatuetas e outros objetos de ornamentação',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 216 => 
 array (
 'codigo' => 39269010,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Arruelas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 217 => 
 array (
 'codigo' => 39269021,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Correias de transmissão e correias transportadoras - De transmissão',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 218 => 
 array (
 'codigo' => 39269022,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Correias de transmissão e correias transportadoras - Transportadoras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 219 => 
 array (
 'codigo' => 39269030,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Bolsas para uso em medicina (hemodiálise e usos semelhantes)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 220 => 
 array (
 'codigo' => 39269040,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Artigos de laboratório ou de farmácia',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 221 => 
 array (
 'codigo' => 39269050,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Acessórios dos tipos utilizados em linhas de sangue para hemodiálise, tais como: obturadores, incluindo os reguláveis (clamps), clipes e similares',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 222 => 
 array (
 'codigo' => 39269061,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Anéis de seção transversal circular (O-rings) - De tetrafluoretileno e éter perfluormetilvinil',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 223 => 
 array (
 'codigo' => 39269069,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Anéis de seção transversal circular (O-rings) - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 224 => 
 array (
 'codigo' => 39269090,
 'descricao' => 'Outras obras de plásticos e obras de outras matérias das posições 39.01 a 39.14 - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 225 => 
 array (
 'codigo' => 40011000,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Látex de borracha natural, mesmo pré-vulcanizado',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 226 => 
 array (
 'codigo' => 40012100,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Borracha natural noutras formas - Folhas fumadas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 227 => 
 array (
 'codigo' => 40012200,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Borracha natural noutras formas - Borracha natural tecnicamente especificada (TSNR)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 228 => 
 array (
 'codigo' => 40012910,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Borracha natural noutras formas - Outras - Crepadas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 229 => 
 array (
 'codigo' => 40012920,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Borracha natural noutras formas - Outras - Granuladas ou prensadas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 230 => 
 array (
 'codigo' => 40012990,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Borracha natural noutras formas - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 231 => 
 array (
 'codigo' => 40013000,
 'descricao' => 'Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras - Balata, guta-percha, guaiúle, chicle e gomas naturais análogas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 232 => 
 array (
 'codigo' => 40021110,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de estireno-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR) - Látex - De estireno-butadieno (SBR)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 233 => 
 array (
 'codigo' => 40021120,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de estireno-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR) - Látex - De estireno-butadieno carboxilada (XSBR)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 234 => 
 array (
 'codigo' => 40021911,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de estireno-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR) - Outras - De estireno-butadieno (SBR) - Em chapas, folhas ou tiras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 235 => 
 array (
 'codigo' => 40021912,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de estireno-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR) - Outras - De estireno-butadieno (SBR) - Grau alimentício de acordo com o estabelecido pelo Food Chemical Codex, em formas primárias',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 236 => 
 array (
 'codigo' => 40021919,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de estireno-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR) - Outras - De estireno-butadieno (SBR) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 237 => 
 array (
 'codigo' => 40021920,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de estireno-butadieno (SBR); borracha de estireno-butadieno carboxilada (XSBR) - Outras - De estireno-butadieno carboxilada (XSBR)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 238 => 
 array (
 'codigo' => 40022010,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de butadieno (BR) - Óleo',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 239 => 
 array (
 'codigo' => 40022090,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de butadieno (BR) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 240 => 
 array (
 'codigo' => 40023100,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de isobuteno-isopreno (butila) (IIR); borracha de isobuteno-isopreno halogenada (CIIR ou BIIR) - Borracha de isobuteno-isopreno (butila) (IIR)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 241 => 
 array (
 'codigo' => 40023900,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de isobuteno-isopreno (butila) (IIR); borracha de isobuteno-isopreno halogenada (CIIR ou BIIR) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 242 => 
 array (
 'codigo' => 40024100,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de cloropreno (clorobutadieno) (CR) - Látex',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 243 => 
 array (
 'codigo' => 40024900,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de cloropreno (clorobutadieno) (CR) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 244 => 
 array (
 'codigo' => 40025100,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de acrilonitrila-butadieno (NBR) - Látex',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 245 => 
 array (
 'codigo' => 40025900,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de acrilonitrila-butadieno (NBR) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 246 => 
 array (
 'codigo' => 40026000,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de isopreno (IR)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 247 => 
 array (
 'codigo' => 40027000,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Borracha de etileno-propileno-dieno não conjugada (EPDM)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 248 => 
 array (
 'codigo' => 40028000,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Misturas dos produtos da posição 40.01 com produtos da presente posição',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 249 => 
 array (
 'codigo' => 40029100,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Outras - Látex',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 250 => 
 array (
 'codigo' => 40029910,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Outras - Outras - Borracha estireno-isopreno-estireno',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 251 => 
 array (
 'codigo' => 40029920,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Outras - Outras - Borracha etileno-propileno-dieno não conjugado-propileno (EPDM-propileno)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 252 => 
 array (
 'codigo' => 40029930,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Outras - Outras - Borracha acrilonitrila-butadieno hidrogenada',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 253 => 
 array (
 'codigo' => 40029990,
 'descricao' => 'Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras - Outras - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 254 => 
 array (
 'codigo' => 40030000,
 'descricao' => 'Borracha regenerada, em formas primárias ou em chapas, folhas ou tiras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 255 => 
 array (
 'codigo' => 40040000,
 'descricao' => 'Desperdícios, resíduos e aparas, de borracha não endurecida, mesmo reduzidos a pó ou a grânulos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 256 => 
 array (
 'codigo' => 40051010,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Borracha adicionada de negro-de-carbono ou de sílica - Borracha etileno-propileno-dieno não conjugado-propileno (EPDM-propileno), com sílica e plastificante, em grânulos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 257 => 
 array (
 'codigo' => 40051090,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Borracha adicionada de negro-de-carbono ou de sílica - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 258 => 
 array (
 'codigo' => 40052000,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Soluções; dispersões, exceto as da subposição 4005.10',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 259 => 
 array (
 'codigo' => 40059110,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Outras - Chapas, folhas e tiras - Preparações base para a fabricação de gomas de mascar',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 260 => 
 array (
 'codigo' => 40059190,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Outras - Chapas, folhas e tiras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 261 => 
 array (
 'codigo' => 40059910,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Outras - Outras - Preparações base para a fabricação de gomas de mascar',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 262 => 
 array (
 'codigo' => 40059990,
 'descricao' => 'Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras - Outras - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 263 => 
 array (
 'codigo' => 40061000,
 'descricao' => 'Outras formas (por exemplo, varetas, tubos, perfis) e artigos (por exemplo, discos, arruelas), de borracha não vulcanizada - Perfis para recauchutagem',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 264 => 
 array (
 'codigo' => 40069000,
 'descricao' => 'Outras formas (por exemplo, varetas, tubos, perfis) e artigos (por exemplo, discos, arruelas), de borracha não vulcanizada - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 265 => 
 array (
 'codigo' => 40070011,
 'descricao' => 'Fios e cordas, de borracha vulcanizada - Fios - Recobertos com silicone, mesmo paralelizados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 266 => 
 array (
 'codigo' => 40070019,
 'descricao' => 'Fios e cordas, de borracha vulcanizada - Fios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 267 => 
 array (
 'codigo' => 40070020,
 'descricao' => 'Fios e cordas, de borracha vulcanizada - Cordas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 268 => 
 array (
 'codigo' => 40081100,
 'descricao' => 'Chapas, folhas, tiras, varetas e perfis, de borracha vulcanizada não endurecida - De borracha alveolar - Chapas, folhas e tiras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 269 => 
 array (
 'codigo' => 40081900,
 'descricao' => 'Chapas, folhas, tiras, varetas e perfis, de borracha vulcanizada não endurecida - De borracha alveolar - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 270 => 
 array (
 'codigo' => 40082100,
 'descricao' => 'Chapas, folhas, tiras, varetas e perfis, de borracha vulcanizada não endurecida - De borracha não alveolar - Chapas, folhas e tiras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 271 => 
 array (
 'codigo' => 40082900,
 'descricao' => 'Chapas, folhas, tiras, varetas e perfis, de borracha vulcanizada não endurecida - De borracha não alveolar - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 272 => 
 array (
 'codigo' => 40091100,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Não reforçados com outras matérias nem associados de outra forma com outras matérias - Sem acessórios',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 273 => 
 array (
 'codigo' => 40091210,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Não reforçados com outras matérias nem associados de outra forma com outras matérias - Com acessórios - Com uma pressão de ruptura superior ou igual a 17,3 MPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 274 => 
 array (
 'codigo' => 40091290,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Não reforçados com outras matérias nem associados de outra forma com outras matérias - Com acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 275 => 
 array (
 'codigo' => 40092110,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com metal ou associados de outra forma apenas com metal - Sem acessórios - Com uma pressão de ruptura superior ou igual a 17,3 MPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 276 => 
 array (
 'codigo' => 40092190,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com metal ou associados de outra forma apenas com metal - Sem acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 277 => 
 array (
 'codigo' => 40092210,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com metal ou associados de outra forma apenas com metal - Com acessórios - Com uma pressão de ruptura superior ou igual a 17,3 MPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 278 => 
 array (
 'codigo' => 40092290,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com metal ou associados de outra forma apenas com metal - Com acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 279 => 
 array (
 'codigo' => 40093100,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com matérias têxteis ou associados de outra forma apenas com matérias têxteis - Sem acessórios',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 280 => 
 array (
 'codigo' => 40093210,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com matérias têxteis ou associados de outra forma apenas com matérias têxteis - Com acessórios - Com uma pressão de ruptura superior ou igual a 17,3 MPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 281 => 
 array (
 'codigo' => 40093290,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados apenas com matérias têxteis ou associados de outra forma apenas com matérias têxteis - Com acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 282 => 
 array (
 'codigo' => 40094100,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados com outras matérias ou associados de outra forma com outras matérias - Sem acessórios',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 283 => 
 array (
 'codigo' => 40094210,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados com outras matérias ou associados de outra forma com outras matérias - Com acessórios - Com uma pressão de ruptura superior ou igual a 17,3 MPa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 284 => 
 array (
 'codigo' => 40094290,
 'descricao' => 'Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões) - Reforçados com outras matérias ou associados de outra forma com outras matérias - Com acessórios - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 285 => 
 array (
 'codigo' => 40101100,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias transportadoras - Reforçadas apenas com metal',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 286 => 
 array (
 'codigo' => 40101200,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias transportadoras - Reforçadas apenas com matérias têxteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 287 => 
 array (
 'codigo' => 40101900,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias transportadoras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 288 => 
 array (
 'codigo' => 40103100,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Correias de transmissão sem fim, de seção trapezoidal, estriadas, com uma circunferência externa superior a 60 cm, mas não superior a 180 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 289 => 
 array (
 'codigo' => 40103200,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Correias de transmissão sem fim, de seção trapezoidal, não estriadas, com uma circunferência externa superior a 60 cm, mas não superior a 180 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 290 => 
 array (
 'codigo' => 40103300,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Correias de transmissão sem fim, de seção trapezoidal, estriadas, com uma circunferência externa superior a 180 cm, mas não superior a 240 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 291 => 
 array (
 'codigo' => 40103400,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Correias de transmissão sem fim, de seção trapezoidal, não estriadas, com uma circunferência externa superior a 180 cm, mas não superior a 240 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 292 => 
 array (
 'codigo' => 40103500,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Correias de transmissão sem fim, síncronas, com uma circunferência externa superior a 60 cm, mas não superior a 150 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 293 => 
 array (
 'codigo' => 40103600,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Correias de transmissão sem fim, síncronas, com uma circunferência externa superior a 150 cm, mas não superior a 198 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 294 => 
 array (
 'codigo' => 40103900,
 'descricao' => 'Correias transportadoras ou de transmissão, de borracha vulcanizada - Correias de transmissão - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 295 => 
 array (
 'codigo' => 40111000,
 'descricao' => 'Pneumáticos novos, de borracha - Dos tipos utilizados em automóveis de passageiros (incluindo os veículos de uso misto (station wagons) e os automóveis de corrida)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 296 => 
 array (
 'codigo' => 40112010,
 'descricao' => 'Pneumáticos novos, de borracha - Dos tipos utilizados em ônibus ou caminhões - De medida 11,00-24',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 297 => 
 array (
 'codigo' => 40112090,
 'descricao' => 'Pneumáticos novos, de borracha - Dos tipos utilizados em ônibus ou caminhões - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 298 => 
 array (
 'codigo' => 40113000,
 'descricao' => 'Pneumáticos novos, de borracha - Dos tipos utilizados em veículos aéreos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 299 => 
 array (
 'codigo' => 40114000,
 'descricao' => 'Pneumáticos novos, de borracha - Dos tipos utilizados em motocicletas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 300 => 
 array (
 'codigo' => 40115000,
 'descricao' => 'Pneumáticos novos, de borracha - Dos tipos utilizados em bicicletas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 301 => 
 array (
 'codigo' => 40116100,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Dos tipos utilizados em veículos e máquinas agrícolas ou florestais',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 302 => 
 array (
 'codigo' => 40116200,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro inferior ou igual a 61 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 303 => 
 array (
 'codigo' => 40116310,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro superior a 61 cm - Radiais, para dumpers concebidos para serem utilizados fora de rodovias, com seção de largura superior ou igual a 940 mm (37″), para aros de diâmetro superior ou igual a 1.448 mm (57″)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 304 => 
 array (
 'codigo' => 40116320,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro superior a 61 cm - Outros, com seção de largura superior ou igual a 1.143 mm (45″), para aros de diâmetro superior ou igual a 1.143 mm (45″)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 305 => 
 array (
 'codigo' => 40116390,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro superior a 61 cm - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 306 => 
 array (
 'codigo' => 40116910,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Outros - Com seção de largura superior ou igual a 1.143 mm (45″), para aros de diâmetro superior ou igual a 1.143 mm (45″)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 307 => 
 array (
 'codigo' => 40116990,
 'descricao' => 'Pneumáticos novos, de borracha - Outros, com bandas de rodagem em forma de “espinha de peixe” ou semelhantes - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 308 => 
 array (
 'codigo' => 40119210,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Dos tipos utilizados em veículos e máquinas agrícolas ou florestais - Nas seguintes medidas: 4,00-15; 4,00-18; 4,00-19; 5,00-15; 5,00-16; 5,50-16; 6,00-16; 6,00-19; 6,00-20; 6,50-16; 6,50-20; 7,50-16; 7,50-18; 7,50-20',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 309 => 
 array (
 'codigo' => 40119290,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Dos tipos utilizados em veículos e máquinas agrícolas ou florestais - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 310 => 
 array (
 'codigo' => 40119300,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro inferior ou igual a 61 cm',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 311 => 
 array (
 'codigo' => 40119410,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro superior a 61 cm - Radiais, para dumpers concebidos para serem utilizados fora de rodovias, com seção de largura superior ou igual a 940 mm (37″), para aros de diâmetro superior ou igual a 1.448 mm (57″)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 312 => 
 array (
 'codigo' => 40119420,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro superior a 61 cm - Outros, com seção de largura superior ou igual a 1.143 mm (45″), para aros de diâmetro superior ou igual a 1.143 mm (45″)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 313 => 
 array (
 'codigo' => 40119490,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Dos tipos utilizados em veículos e máquinas para a construção civil ou manutenção industrial, para aros de diâmetro superior a 61 cm - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 314 => 
 array (
 'codigo' => 40119910,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Outros - Com seção de largura superior ou igual a 1.143 mm (45″), para aros de diâmetro superior ou igual a 1.143 mm (45″)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 315 => 
 array (
 'codigo' => 40119990,
 'descricao' => 'Pneumáticos novos, de borracha - Outros - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 316 => 
 array (
 'codigo' => 40121100,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Pneumáticos recauchutados - Dos tipos utilizados em automóveis de passageiros (incluindo os veículos de uso misto (station wagons) e os automóveis de corrida)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 317 => 
 array (
 'codigo' => 40121200,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Pneumáticos recauchutados - Dos tipos utilizados em ônibus ou caminhões',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 318 => 
 array (
 'codigo' => 40121300,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Pneumáticos recauchutados - Dos tipos utilizados em veículos aéreos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 319 => 
 array (
 'codigo' => 40121900,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Pneumáticos recauchutados - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 320 => 
 array (
 'codigo' => 40122000,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Pneumáticos usados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 321 => 
 array (
 'codigo' => 40129010,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Outros - Flaps',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 322 => 
 array (
 'codigo' => 40129090,
 'descricao' => 'Pneumáticos recauchutados ou usados, de borracha; protetores, bandas de rodagem para pneumáticos e flaps, de borracha - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 323 => 
 array (
 'codigo' => 40131010,
 'descricao' => 'Câmaras de ar de borracha - Dos tipos utilizados em automóveis de passageiros (incluindo os veículos de uso misto (station wagons) e os automóveis de corrida), ônibus ou caminhões - Para pneumáticos do tipo dos utilizados em ônibus ou caminhões, de medida 11,00-24',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 324 => 
 array (
 'codigo' => 40131090,
 'descricao' => 'Câmaras de ar de borracha - Dos tipos utilizados em automóveis de passageiros (incluindo os veículos de uso misto (station wagons) e os automóveis de corrida), ônibus ou caminhões - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 325 => 
 array (
 'codigo' => 40132000,
 'descricao' => 'Câmaras de ar de borracha - Dos tipos utilizados em bicicletas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 326 => 
 array (
 'codigo' => 40139000,
 'descricao' => 'Câmaras de ar de borracha - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 327 => 
 array (
 'codigo' => 40141000,
 'descricao' => 'Artigos de higiene ou de farmácia (incluindo as chupetas), de borracha vulcanizada não endurecida, mesmo com partes de borracha endurecida - Preservativos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 328 => 
 array (
 'codigo' => 40149010,
 'descricao' => 'Artigos de higiene ou de farmácia (incluindo as chupetas), de borracha vulcanizada não endurecida, mesmo com partes de borracha endurecida - Outros - Bolsas para gelo ou para água quente',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 329 => 
 array (
 'codigo' => 40149090,
 'descricao' => 'Artigos de higiene ou de farmácia (incluindo as chupetas), de borracha vulcanizada não endurecida, mesmo com partes de borracha endurecida - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 330 => 
 array (
 'codigo' => 40151100,
 'descricao' => 'Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes), de borracha vulcanizada não endurecida, para quaisquer usos - Luvas, mitenes e semelhantes - Para cirurgia',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 331 => 
 array (
 'codigo' => 40151900,
 'descricao' => 'Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes), de borracha vulcanizada não endurecida, para quaisquer usos - Luvas, mitenes e semelhantes - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 332 => 
 array (
 'codigo' => 40159000,
 'descricao' => 'Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes), de borracha vulcanizada não endurecida, para quaisquer usos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 333 => 
 array (
 'codigo' => 40161010,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - De borracha alveolar - Partes de veículos automóveis ou tratores e de máquinas ou aparelhos, não domésticos, dos Capítulos 84, 85 ou 90',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 334 => 
 array (
 'codigo' => 40161090,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - De borracha alveolar - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 335 => 
 array (
 'codigo' => 40169100,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Revestimentos para pisos (pavimentos) e capachos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 336 => 
 array (
 'codigo' => 40169200,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Borrachas de apagar',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 337 => 
 array (
 'codigo' => 40169300,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Juntas, gaxetas e semelhantes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 338 => 
 array (
 'codigo' => 40169400,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Defensas, mesmo infláveis, para atracação de embarcações',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 339 => 
 array (
 'codigo' => 40169510,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Outros artigos infláveis - De salvamento',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 340 => 
 array (
 'codigo' => 40169590,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Outros artigos infláveis - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 341 => 
 array (
 'codigo' => 40169910,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Outras - Tampões vedadores para capacitores, de EPDM, com perfurações para terminais',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 342 => 
 array (
 'codigo' => 40169990,
 'descricao' => 'Outras obras de borracha vulcanizada não endurecida - Outras - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 343 => 
 array (
 'codigo' => 40170000,
 'descricao' => 'Borracha endurecida (ebonite, por exemplo) sob qualquer forma, incluindo os desperdícios e resíduos; obras de borracha endurecida',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 344 => 
 array (
 'codigo' => 41012000,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Couros e peles em bruto, inteiros, não divididos, de peso unitário não superior a 8 kg quando secos, a 10 kg quando salgados a seco e a 16 kg quando frescos, salgados a úmido ou conservados de outro modo',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 345 => 
 array (
 'codigo' => 41015010,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Couros e peles em bruto, inteiros, de peso unitário superior a 16 kg - Sem dividir',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 346 => 
 array (
 'codigo' => 41015020,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Couros e peles em bruto, inteiros, de peso unitário superior a 16 kg - Divididos, com o lado flor',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 347 => 
 array (
 'codigo' => 41015030,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Couros e peles em bruto, inteiros, de peso unitário superior a 16 kg - Divididos, sem o lado flor',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 348 => 
 array (
 'codigo' => 41019010,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Outros, incluindo dorsos, meios-dorsos e flancos - Sem dividir',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 349 => 
 array (
 'codigo' => 41019020,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Outros, incluindo dorsos, meios-dorsos e flancos - Divididos, com o lado flor',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 350 => 
 array (
 'codigo' => 41019030,
 'descricao' => 'Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos - Outros, incluindo dorsos, meios-dorsos e flancos - Divididos, sem o lado flor',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 351 => 
 array (
 'codigo' => 41021000,
 'descricao' => 'Peles em bruto de ovinos (frescas ou salgadas, secas, tratadas pela cal, piqueladas ou conservadas de outro modo, mas não curtidas, nem apergaminhadas, nem preparadas de outro modo), mesmo depiladas ou divididas, com exceção das excluídas pela Nota 1 c) do presente Capítulo - Com lã (não depiladas)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 352 => 
 array (
 'codigo' => 41022100,
 'descricao' => 'Peles em bruto de ovinos (frescas ou salgadas, secas, tratadas pela cal, piqueladas ou conservadas de outro modo, mas não curtidas, nem apergaminhadas, nem preparadas de outro modo), mesmo depiladas ou divididas, com exceção das excluídas pela Nota 1 c) do presente Capítulo - Depiladas ou sem lã - Piqueladas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 353 => 
 array (
 'codigo' => 41022900,
 'descricao' => 'Peles em bruto de ovinos (frescas ou salgadas, secas, tratadas pela cal, piqueladas ou conservadas de outro modo, mas não curtidas, nem apergaminhadas, nem preparadas de outro modo), mesmo depiladas ou divididas, com exceção das excluídas pela Nota 1 c) do presente Capítulo - Depiladas ou sem lã - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 354 => 
 array (
 'codigo' => 41032000,
 'descricao' => 'Outros couros e peles em bruto (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos, com exceção dos excluídos pelas Notas 1 b) ou 1 c) do presente Capítulo - De répteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 355 => 
 array (
 'codigo' => 41033000,
 'descricao' => 'Outros couros e peles em bruto (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos, com exceção dos excluídos pelas Notas 1 b) ou 1 c) do presente Capítulo - De suínos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 356 => 
 array (
 'codigo' => 41039000,
 'descricao' => 'Outros couros e peles em bruto (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos, com exceção dos excluídos pelas Notas 1 b) ou 1 c) do presente Capítulo - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 357 => 
 array (
 'codigo' => 41041111,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Plena flor, não divididos - Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2, simplesmente curtidos ao cromo (wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 358 => 
 array (
 'codigo' => 41041112,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Plena flor, não divididos - Outros couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 359 => 
 array (
 'codigo' => 41041113,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Plena flor, não divididos - Outros couros e peles de bovinos (incluindo os búfalos), com pré-curtimenta vegetal',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 360 => 
 array (
 'codigo' => 41041114,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Plena flor, não divididos - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 361 => 
 array (
 'codigo' => 41041119,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Plena flor, não divididos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 362 => 
 array (
 'codigo' => 41041121,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Divididos, com o lado flor - Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2, simplesmente curtidos ao cromo (wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 363 => 
 array (
 'codigo' => 41041122,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Divididos, com o lado flor - Outros couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 364 => 
 array (
 'codigo' => 41041123,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Divididos, com o lado flor - Outros couros e peles de bovinos (incluindo os búfalos), com pré-curtimenta vegetal',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 365 => 
 array (
 'codigo' => 41041124,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Divididos, com o lado flor - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 366 => 
 array (
 'codigo' => 41041129,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Plena flor, não divididos; divididos, com o lado flor - Divididos, com o lado flor - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 367 => 
 array (
 'codigo' => 41041910,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Outros - Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2, simplesmente curtidos ao cromo (wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 368 => 
 array (
 'codigo' => 41041920,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Outros - Outros couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 369 => 
 array (
 'codigo' => 41041930,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Outros - Outros couros e peles de bovinos (incluindo os búfalos), com pré-curtimenta vegetal',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 370 => 
 array (
 'codigo' => 41041940,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Outros - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 371 => 
 array (
 'codigo' => 41041990,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado úmido (incluindo wet-blue) - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 372 => 
 array (
 'codigo' => 41044110,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Plena flor, não divididos; divididos, com o lado flor - Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 373 => 
 array (
 'codigo' => 41044120,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Plena flor, não divididos; divididos, com o lado flor - Outros couros e peles de bovinos (incluindo os búfalos), curtidos ao vegetal, para solas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 374 => 
 array (
 'codigo' => 41044130,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Plena flor, não divididos; divididos, com o lado flor - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 375 => 
 array (
 'codigo' => 41044190,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Plena flor, não divididos; divididos, com o lado flor - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 376 => 
 array (
 'codigo' => 41044910,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Outros - Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 377 => 
 array (
 'codigo' => 41044920,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Outros - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 378 => 
 array (
 'codigo' => 41044990,
 'descricao' => 'Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo - No estado seco (crust) - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 379 => 
 array (
 'codigo' => 41051010,
 'descricao' => 'Peles curtidas ou crust de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo - No estado úmido (incluindo wet-blue) - Com pré-curtimenta vegetal',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 380 => 
 array (
 'codigo' => 41051021,
 'descricao' => 'Peles curtidas ou crust de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo - No estado úmido (incluindo wet-blue) - Pré-curtidas de outro modo - Ao cromo (wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 381 => 
 array (
 'codigo' => 41051029,
 'descricao' => 'Peles curtidas ou crust de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo - No estado úmido (incluindo wet-blue) - Pré-curtidas de outro modo - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 382 => 
 array (
 'codigo' => 41051090,
 'descricao' => 'Peles curtidas ou crust de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo - No estado úmido (incluindo wet-blue) - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 383 => 
 array (
 'codigo' => 41053000,
 'descricao' => 'Peles curtidas ou crust de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo - No estado seco (crust)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 384 => 
 array (
 'codigo' => 41062110,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De caprinos - No estado úmido (incluindo wet-blue) - Com pré-curtimenta vegetal',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 385 => 
 array (
 'codigo' => 41062121,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De caprinos - No estado úmido (incluindo wet-blue) - Pré-curtidos de outro modo - Ao cromo (wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 386 => 
 array (
 'codigo' => 41062129,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De caprinos - No estado úmido (incluindo wet-blue) - Pré-curtidos de outro modo - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 387 => 
 array (
 'codigo' => 41062190,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De caprinos - No estado úmido (incluindo wet-blue) - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 388 => 
 array (
 'codigo' => 41062200,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De caprinos - No estado seco (crust)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 389 => 
 array (
 'codigo' => 41063110,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De suínos - No estado úmido (incluindo wet-blue) - Simplesmente curtidos ao cromo (wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 390 => 
 array (
 'codigo' => 41063190,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De suínos - No estado úmido (incluindo wet-blue) - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 391 => 
 array (
 'codigo' => 41063200,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De suínos - No estado seco (crust)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 392 => 
 array (
 'codigo' => 41064000,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - De répteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 393 => 
 array (
 'codigo' => 41069100,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - Outros - No estado úmido (incluindo wet-blue)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 394 => 
 array (
 'codigo' => 41069200,
 'descricao' => 'Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou crust, mesmo divididos, mas não preparados de outro modo - Outros - No estado seco (crust)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 395 => 
 array (
 'codigo' => 41071110,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Plena flor, não divididos - Couros e peles de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 396 => 
 array (
 'codigo' => 41071120,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Plena flor, não divididos - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 397 => 
 array (
 'codigo' => 41071190,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Plena flor, não divididos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 398 => 
 array (
 'codigo' => 41071210,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Divididos, com o lado flor - Couros e peles de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 399 => 
 array (
 'codigo' => 41071220,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Divididos, com o lado flor - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 400 => 
 array (
 'codigo' => 41071290,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Divididos, com o lado flor - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 401 => 
 array (
 'codigo' => 41071910,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Outros - Couros e peles de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m2',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 402 => 
 array (
 'codigo' => 41071920,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Outros - Outros couros e peles de bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 403 => 
 array (
 'codigo' => 41071990,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Couros e peles inteiros - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 404 => 
 array (
 'codigo' => 41079110,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Outros, incluindo as tiras - Plena flor, não divididos - De bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 405 => 
 array (
 'codigo' => 41079190,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Outros, incluindo as tiras - Plena flor, não divididos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 406 => 
 array (
 'codigo' => 41079210,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Outros, incluindo as tiras - Divididos, com o lado flor - De bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 407 => 
 array (
 'codigo' => 41079290,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Outros, incluindo as tiras - Divididos, com o lado flor - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 408 => 
 array (
 'codigo' => 41079910,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Outros, incluindo as tiras - Outros - De bovinos (incluindo os búfalos)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 409 => 
 array (
 'codigo' => 41079990,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14 - Outros, incluindo as tiras - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 410 => 
 array (
 'codigo' => 41120000,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de ovinos, depilados, mesmo divididos, exceto os da posição 41.14',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 411 => 
 array (
 'codigo' => 41131010,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de outros animais, depilados, e couros preparados após curtimenta e couros e peles apergaminhados, de animais desprovidos de pelos, mesmo divididos, exceto os da posição 41.14 - De caprinos - Curtidos ao cromo, com acabamento',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 412 => 
 array (
 'codigo' => 41131090,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de outros animais, depilados, e couros preparados após curtimenta e couros e peles apergaminhados, de animais desprovidos de pelos, mesmo divididos, exceto os da posição 41.14 - De caprinos - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 413 => 
 array (
 'codigo' => 41132000,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de outros animais, depilados, e couros preparados após curtimenta e couros e peles apergaminhados, de animais desprovidos de pelos, mesmo divididos, exceto os da posição 41.14 - De suínos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 414 => 
 array (
 'codigo' => 41133000,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de outros animais, depilados, e couros preparados após curtimenta e couros e peles apergaminhados, de animais desprovidos de pelos, mesmo divididos, exceto os da posição 41.14 - De répteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 415 => 
 array (
 'codigo' => 41139000,
 'descricao' => 'Couros preparados após curtimenta ou após secagem e couros e peles apergaminhados, de outros animais, depilados, e couros preparados após curtimenta e couros e peles apergaminhados, de animais desprovidos de pelos, mesmo divididos, exceto os da posição 41.14 - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 416 => 
 array (
 'codigo' => 41141000,
 'descricao' => 'Couros e peles acamurçados (incluindo a camurça combinada); couros e peles envernizados ou revestidos; couros e peles metalizados - Couros e peles acamurçados (incluindo a camurça combinada)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 417 => 
 array (
 'codigo' => 41142010,
 'descricao' => 'Couros e peles acamurçados (incluindo a camurça combinada); couros e peles envernizados ou revestidos; couros e peles metalizados - Couros e peles envernizados ou revestidos; couros e peles metalizados - Envernizados ou revestidos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 418 => 
 array (
 'codigo' => 41142020,
 'descricao' => 'Couros e peles acamurçados (incluindo a camurça combinada); couros e peles envernizados ou revestidos; couros e peles metalizados - Couros e peles envernizados ou revestidos; couros e peles metalizados - Metalizados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 419 => 
 array (
 'codigo' => 41151000,
 'descricao' => 'Couro reconstituído, à base de couro ou de fibras de couro, em chapas, folhas ou tiras, mesmo enroladas; aparas e outros desperdícios de couros ou de peles preparados ou de couro reconstituído, não utilizáveis para fabricação de obras de couro; serragem, pó e farinha de couro - Couro reconstituído à base de couro ou de fibras de couro, em chapas, folhas ou tiras, mesmo enroladas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 420 => 
 array (
 'codigo' => 41152000,
 'descricao' => 'Couro reconstituído, à base de couro ou de fibras de couro, em chapas, folhas ou tiras, mesmo enroladas; aparas e outros desperdícios de couros ou de peles preparados ou de couro reconstituído, não utilizáveis para fabricação de obras de couro; serragem, pó e farinha de couro - Aparas e outros desperdícios de couros ou de peles preparados ou de couro reconstituído, não utilizáveis para fabricação de obras de couro; serragem, pó e farinha de couro',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 421 => 
 array (
 'codigo' => 42010010,
 'descricao' => 'Artigos de seleiro ou de correeiro, para quaisquer animais (incluindo as trelas, joelheiras, focinheiras, mantas de sela, alforjes, agasalhos para cães e artigos semelhantes), de quaisquer matérias - De couro natural ou reconstituído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 422 => 
 array (
 'codigo' => 42010090,
 'descricao' => 'Artigos de seleiro ou de correeiro, para quaisquer animais (incluindo as trelas, joelheiras, focinheiras, mantas de sela, alforjes, agasalhos para cães e artigos semelhantes), de quaisquer matérias - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 423 => 
 array (
 'codigo' => 42021100,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes e artefatos semelhantes - Com a superfície exterior de couro natural ou reconstituído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 424 => 
 array (
 'codigo' => 42021210,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes e artefatos semelhantes - Com a superfície exterior de plásticos ou de matérias têxteis - De plásticos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 425 => 
 array (
 'codigo' => 42021220,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes e artefatos semelhantes - Com a superfície exterior de plásticos ou de matérias têxteis - De matérias têxteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 426 => 
 array (
 'codigo' => 42021900,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes e artefatos semelhantes - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 427 => 
 array (
 'codigo' => 42022100,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Bolsas, mesmo com tiracolo, incluindo as que não possuam alças - Com a superfície exterior de couro natural ou reconstituído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 428 => 
 array (
 'codigo' => 42022210,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Bolsas, mesmo com tiracolo, incluindo as que não possuam alças - Com a superfície exterior de folhas de plásticos ou de matérias têxteis - De folhas de plásticos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 429 => 
 array (
 'codigo' => 42022220,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Bolsas, mesmo com tiracolo, incluindo as que não possuam alças - Com a superfície exterior de folhas de plásticos ou de matérias têxteis - De matérias têxteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 430 => 
 array (
 'codigo' => 42022900,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Bolsas, mesmo com tiracolo, incluindo as que não possuam alças - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 431 => 
 array (
 'codigo' => 42023100,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Artigos do tipo dos normalmente levados nos bolsos ou em bolsas - Com a superfície exterior de couro natural ou reconstituído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 432 => 
 array (
 'codigo' => 42023200,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Artigos do tipo dos normalmente levados nos bolsos ou em bolsas - Com a superfície exterior de folhas de plásticos ou de matérias têxteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 433 => 
 array (
 'codigo' => 42023900,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Artigos do tipo dos normalmente levados nos bolsos ou em bolsas - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 434 => 
 array (
 'codigo' => 42029100,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Outros - Com a superfície exterior de couro natural ou reconstituído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 435 => 
 array (
 'codigo' => 42029200,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Outros - Com a superfície exterior de folhas de plásticos ou de matérias têxteis',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 436 => 
 array (
 'codigo' => 42029900,
 'descricao' => 'Baús para viagem, malas e maletas, incluindo as de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artefatos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para jóias, caixas para pó-de-arroz, estojos para ourivesaria e artefatos semelhantes, de couro natural ou reconstituído, de folhas de plásticos, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel - Outros - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 437 => 
 array (
 'codigo' => 42031000,
 'descricao' => 'Vestuário e seus acessórios, de couro natural ou reconstituído - Vestuário',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 438 => 
 array (
 'codigo' => 42032100,
 'descricao' => 'Vestuário e seus acessórios, de couro natural ou reconstituído - Luvas, mitenes e semelhantes - Especialmente concebidas para a prática de esportes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 439 => 
 array (
 'codigo' => 42032900,
 'descricao' => 'Vestuário e seus acessórios, de couro natural ou reconstituído - Luvas, mitenes e semelhantes - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 440 => 
 array (
 'codigo' => 42033000,
 'descricao' => 'Vestuário e seus acessórios, de couro natural ou reconstituído - Cintos, cinturões e bandoleiras ou talabartes',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 441 => 
 array (
 'codigo' => 42034000,
 'descricao' => 'Vestuário e seus acessórios, de couro natural ou reconstituído - Outros acessórios de vestuário',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 442 => 
 array (
 'codigo' => 42050000,
 'descricao' => 'Outras obras de couro natural ou reconstituído',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 443 => 
 array (
 'codigo' => 42060000,
 'descricao' => 'Obras de tripa, de baudruches, de bexiga ou de tendões',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 444 => 
 array (
 'codigo' => 43011000,
 'descricao' => 'Peles com pelo em bruto (incluindo as cabeças, caudas, patas e outras partes utilizáveis na indústria de peles), exceto as peles em bruto das posições 41.01, 41.02 ou 41.03 - De visons, inteiras, com ou sem cabeça, cauda ou patas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 445 => 
 array (
 'codigo' => 43013000,
 'descricao' => 'Peles com pelo em bruto (incluindo as cabeças, caudas, patas e outras partes utilizáveis na indústria de peles), exceto as peles em bruto das posições 41.01, 41.02 ou 41.03 - De cordeiros denominados astracã, breitschwanz, caracul, persianer ou semelhantes, de cordeiros da Índia, da China, da Mongólia ou do Tibete, inteiras, com ou sem cabeça, cauda ou patas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 446 => 
 array (
 'codigo' => 43016000,
 'descricao' => 'Peles com pelo em bruto (incluindo as cabeças, caudas, patas e outras partes utilizáveis na indústria de peles), exceto as peles em bruto das posições 41.01, 41.02 ou 41.03 - De raposas, inteiras, com ou sem cabeça, cauda ou patas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 447 => 
 array (
 'codigo' => 43018000,
 'descricao' => 'Peles com pelo em bruto (incluindo as cabeças, caudas, patas e outras partes utilizáveis na indústria de peles), exceto as peles em bruto das posições 41.01, 41.02 ou 41.03 - De outros animais, inteiras, com ou sem cabeça, cauda ou patas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 448 => 
 array (
 'codigo' => 43019000,
 'descricao' => 'Peles com pelo em bruto (incluindo as cabeças, caudas, patas e outras partes utilizáveis na indústria de peles), exceto as peles em bruto das posições 41.01, 41.02 ou 41.03 - Cabeças, caudas, patas e outras partes utilizáveis na indústria de peles',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 449 => 
 array (
 'codigo' => 43021100,
 'descricao' => 'Peles com pelo curtidas ou acabadas (incluindo as cabeças, caudas, patas e outras partes, desperdícios e aparas), não reunidas (não montadas) ou reunidas (montadas) sem adição de outras matérias, com exceção das da posição 43.03 - Peles com pelo inteiras, com ou sem cabeça, cauda ou patas, não reunidas (não montadas) - De visons',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 450 => 
 array (
 'codigo' => 43021910,
 'descricao' => 'Peles com pelo curtidas ou acabadas (incluindo as cabeças, caudas, patas e outras partes, desperdícios e aparas), não reunidas (não montadas) ou reunidas (montadas) sem adição de outras matérias, com exceção das da posição 43.03 - Peles com pelo inteiras, com ou sem cabeça, cauda ou patas, não reunidas (não montadas) - Outras - De ovinos',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 451 => 
 array (
 'codigo' => 43021990,
 'descricao' => 'Peles com pelo curtidas ou acabadas (incluindo as cabeças, caudas, patas e outras partes, desperdícios e aparas), não reunidas (não montadas) ou reunidas (montadas) sem adição de outras matérias, com exceção das da posição 43.03 - Peles com pelo inteiras, com ou sem cabeça, cauda ou patas, não reunidas (não montadas) - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 452 => 
 array (
 'codigo' => 43022000,
 'descricao' => 'Peles com pelo curtidas ou acabadas (incluindo as cabeças, caudas, patas e outras partes, desperdícios e aparas), não reunidas (não montadas) ou reunidas (montadas) sem adição de outras matérias, com exceção das da posição 43.03 - Cabeças, caudas, patas e outras partes, desperdícios e aparas, não reunidos (não montados)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 453 => 
 array (
 'codigo' => 43023000,
 'descricao' => 'Peles com pelo curtidas ou acabadas (incluindo as cabeças, caudas, patas e outras partes, desperdícios e aparas), não reunidas (não montadas) ou reunidas (montadas) sem adição de outras matérias, com exceção das da posição 43.03 - Peles com pelo inteiras e respectivos pedaços e aparas, reunidos (montados)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 454 => 
 array (
 'codigo' => 43031000,
 'descricao' => 'Vestuário, seus acessórios e outros artefatos de peles com pelo - Vestuário e seus acessórios',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 455 => 
 array (
 'codigo' => 43039000,
 'descricao' => 'Vestuário, seus acessórios e outros artefatos de peles com pelo - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 456 => 
 array (
 'codigo' => 43040000,
 'descricao' => 'Peles com pelo artificiais, e suas obras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 457 => 
 array (
 'codigo' => 44011000,
 'descricao' => 'Lenha em qualquer estado; madeira em estilhas ou em partículas; serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Lenha em qualquer estado',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 458 => 
 array (
 'codigo' => 44012100,
 'descricao' => 'Lenha em qualquer estado; madeira em estilhas ou em partículas; serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Madeira em estilhas ou em partículas - De coníferas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 459 => 
 array (
 'codigo' => 44012200,
 'descricao' => 'Lenha em qualquer estado; madeira em estilhas ou em partículas; serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Madeira em estilhas ou em partículas - De não coníferas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 460 => 
 array (
 'codigo' => 44013100,
 'descricao' => 'Lenha em qualquer estado; madeira em estilhas ou em partículas; serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Pellets de madeira',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 461 => 
 array (
 'codigo' => 44013900,
 'descricao' => 'Lenha em qualquer estado; madeira em estilhas ou em partículas; serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Serragem, desperdícios e resíduos, de madeira, mesmo aglomerados em toras, briquetes, pellets ou em formas semelhantes - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 462 => 
 array (
 'codigo' => 44021000,
 'descricao' => 'Carvão vegetal (incluindo o carvão de cascas ou de caroços), mesmo aglomerado - De bambu',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 463 => 
 array (
 'codigo' => 44029000,
 'descricao' => 'Carvão vegetal (incluindo o carvão de cascas ou de caroços), mesmo aglomerado - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 464 => 
 array (
 'codigo' => 44031000,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Tratada com tinta, creosoto ou com outros agentes de conservação',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 465 => 
 array (
 'codigo' => 44032000,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Outras, de coníferas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 466 => 
 array (
 'codigo' => 44034100,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Outras, de madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Dark Red Meranti, Light Red Meranti e Meranti Bakau',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 467 => 
 array (
 'codigo' => 44034900,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Outras, de madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 468 => 
 array (
 'codigo' => 44039100,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Outras - De carvalho (Quercus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 469 => 
 array (
 'codigo' => 44039200,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Outras - De faia (Fagus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 470 => 
 array (
 'codigo' => 44039900,
 'descricao' => 'Madeira em bruto, mesmo descascada, desalburnada ou esquadriada - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 471 => 
 array (
 'codigo' => 44041000,
 'descricao' => 'Arcos de madeira; estacas fendidas; estacas aguçadas, não serradas longitudinalmente; madeira simplesmente desbastada ou arredondada, não torneada, não recurvada nem trabalhada de qualquer outro modo, para fabricação de bengalas, guarda-chuvas, cabos de ferramentas e semelhantes; madeira em fasquias, lâminas, fitas e semelhantes - De coníferas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 472 => 
 array (
 'codigo' => 44042000,
 'descricao' => 'Arcos de madeira; estacas fendidas; estacas aguçadas, não serradas longitudinalmente; madeira simplesmente desbastada ou arredondada, não torneada, não recurvada nem trabalhada de qualquer outro modo, para fabricação de bengalas, guarda-chuvas, cabos de ferramentas e semelhantes; madeira em fasquias, lâminas, fitas e semelhantes - De não coníferas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 473 => 
 array (
 'codigo' => 44050000,
 'descricao' => 'Lã de madeira; farinha de madeira',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 474 => 
 array (
 'codigo' => 44061000,
 'descricao' => 'Dormentes de madeira para vias férreas ou semelhantes - Não impregnados',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 475 => 
 array (
 'codigo' => 44069000,
 'descricao' => 'Dormentes de madeira para vias férreas ou semelhantes - Outros',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 476 => 
 array (
 'codigo' => 44071000,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De coníferas',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 477 => 
 array (
 'codigo' => 44072100,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Mahogany (Mogno) (Swietenia spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 478 => 
 array (
 'codigo' => 44072200,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Virola, Imbuia e Balsa',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 479 => 
 array (
 'codigo' => 44072500,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Dark Red Meranti, Light Red Meranti e Meranti Bakau',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 480 => 
 array (
 'codigo' => 44072600,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - White Lauan, White Meranti, White Seraya, Yellow Meranti e Alan',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 481 => 
 array (
 'codigo' => 44072700,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Sapelli',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 482 => 
 array (
 'codigo' => 44072800,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Iroko',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 483 => 
 array (
 'codigo' => 44072910,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Outras - De cedro',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 484 => 
 array (
 'codigo' => 44072920,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Outras - De ipê',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 485 => 
 array (
 'codigo' => 44072930,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Outras - De pau-marfim',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 486 => 
 array (
 'codigo' => 44072940,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Outras - De louro',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 487 => 
 array (
 'codigo' => 44072990,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - De madeiras tropicais mencionadas na Nota 2 de subposições do presente Capítulo - Outras - Outras',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 488 => 
 array (
 'codigo' => 44079100,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - De carvalho (Quercus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 489 => 
 array (
 'codigo' => 44079200,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - De faia (Fagus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 490 => 
 array (
 'codigo' => 44079300,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - De ácer (Acer spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 491 => 
 array (
 'codigo' => 44079400,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - De cerejeira (Prunus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 492 => 
 array (
 'codigo' => 44079500,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - De freixo (Fraxinus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 493 => 
 array (
 'codigo' => 44079910,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De canafístula (Pelthophorum vogelianum)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 494 => 
 array (
 'codigo' => 44079920,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De peroba (Paratecoma peroba)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 495 => 
 array (
 'codigo' => 44079930,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De guaiuvira (Patagonula americana)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 496 => 
 array (
 'codigo' => 44079940,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De cabreúva Parda (Myrocarpus spp.)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 497 => 
 array (
 'codigo' => 44079950,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De urundei (Astronium balansae)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 498 => 
 array (
 'codigo' => 44079960,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De amendoim (Pterogyne nitens)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 499 => 
 array (
 'codigo' => 44079970,
 'descricao' => 'Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm - Outras - Outras - De angico preto (Piptadenia macrocarpa)',
-'created_at' => '0000-00-00 00:00:00',
-'updated_at' => '0000-00-00 00:00:00',
+
 ),
 ));
         \DB::table('ncms')->insert(array (
